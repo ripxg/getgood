@@ -1,0 +1,83 @@
+{
+  "slug": "rule-of-thirds",
+  "title": "How to Take Better Photos (Rule of Thirds)",
+  "category": "Creative",
+  "categorySlug": "creative",
+  "description": "One compositional rule transforms most photos from snapshots to intentional images. You can apply it immediately on any camera, including your phone.",
+  "timeToNotice": "45 seconds",
+  "timeToAchieve": "1 day",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Enable the grid on your phone camera",
+      "instruction": "Go to your camera settings and turn on the grid overlay. This divides your frame into 9 equal rectangles with 2 horizontal and 2 vertical lines. This grid is the visual tool for the rule of thirds.",
+      "tip": "iPhone: Settings → Camera → Grid. Android: Camera settings → Grid lines.",
+      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/4pHmq8HKQJY", "caption": "Rule of thirds photography explained" }
+    },
+    {
+      "number": 2,
+      "title": "Understand the four power points",
+      "instruction": "Where the four grid lines intersect, you get four 'power points'. The human eye naturally moves to these spots first. Placing your subject at one of these points creates a more visually engaging photo than centering everything.",
+      "tip": "Centered = safe. Off-center = interesting.",
+      "media": null
+    },
+    {
+      "number": 3,
+      "title": "Place your main subject on a power point",
+      "instruction": "When shooting a person, building, animal, or object — move it off center onto one of the four intersections. You'll immediately notice how much more dynamic the composition feels compared to the centered version.",
+      "tip": "Take two shots of the same subject: one centered, one on a power point. Compare them.",
+      "media": null
+    },
+    {
+      "number": 4,
+      "title": "Put the horizon on the upper or lower third",
+      "instruction": "Never cut your landscape photo in half with a centered horizon. If the sky is interesting (dramatic clouds, sunset), put the horizon on the lower third — give sky two-thirds of the frame. If the foreground is the story, put the horizon on the upper third.",
+      "tip": "The question to ask: 'What's more interesting — the sky or the ground?' Give that element more space.",
+      "media": null
+    },
+    {
+      "number": 5,
+      "title": "Leave space in the direction of movement",
+      "instruction": "If someone is walking left, position them on the right third with space opening to the left. If a car is moving right, put it on the left third. This 'leading space' gives the subject somewhere to go and creates visual tension.",
+      "tip": "Subjects walking out of frame feel like missed shots. Subjects with space feel intentional.",
+      "media": null
+    },
+    {
+      "number": 6,
+      "title": "Use leading lines to guide the eye",
+      "instruction": "Roads, fences, rivers, stairways — these natural lines draw the viewer's eye through the frame. Position these lines along your grid lines or toward your power points. They create depth and direct attention to your subject.",
+      "tip": "Diagonal lines feel dynamic. Horizontal lines feel calm. Choose based on mood.",
+      "media": null
+    },
+    {
+      "number": 7,
+      "title": "Frame the subject with the environment",
+      "instruction": "Use natural frames — doorways, archways, windows, branches — to frame your subject. Position the frame around the edges of your shot and the subject in the opening. This creates depth and draws the eye inward.",
+      "tip": "The frame doesn't need to be sharp — it can be blurred and still work.",
+      "media": null
+    },
+    {
+      "number": 8,
+      "title": "Look at the eyes in portrait photography",
+      "instruction": "When photographing people, place the eyes on the upper horizontal line. Specifically, the eye closest to camera should sit exactly on the upper third line. This is the most universal rule in portrait photography.",
+      "tip": "If only one eye is visible, that eye goes on the upper third line.",
+      "media": null
+    },
+    {
+      "number": 9,
+      "title": "Break the rule intentionally — for symmetry",
+      "instruction": "Centered composition works brilliantly for symmetrical subjects — reflections, tunnels, architecture with perfect symmetry. Rules exist to be broken with intention. Center when the symmetry IS the point.",
+      "tip": "Wes Anderson has built a career on centered composition. Know the rule, then break it on purpose.",
+      "media": null
+    },
+    {
+      "number": 10,
+      "title": "Review your shots and retrain your eye",
+      "instruction": "After a shooting session, review your photos with the grid overlay in mind. Spot the ones that feel good and identify where the subject sits. Then notice what feels off about the others. Your eye retrains itself through this review loop.",
+      "tip": "Taking 20 intentional photos beats taking 100 random ones.",
+      "media": null
+    }
+  ],
+  "tags": ["photography", "composition", "creative", "phone camera", "visual arts"],
+  "sources": ["https://www.photographytalk.com/photography-articles/7647-rule-of-thirds-in-photography", "https://www.adobe.com/creativecloud/photography/discover/rule-of-thirds.html"]
+}

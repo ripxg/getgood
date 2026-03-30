@@ -1,0 +1,83 @@
+{
+  "slug": "tennis-serve",
+  "title": "How to Hit a Consistent Tennis Serve",
+  "category": "Sports & Fitness",
+  "categorySlug": "sports-fitness",
+  "description": "The serve is the only shot in tennis you fully control. Learn the mechanics that make it reliable — not just powerful.",
+  "timeToNotice": "45 seconds",
+  "timeToAchieve": "1 day",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Start with the continental grip",
+      "instruction": "Hold the racket like you're shaking hands with the edge of the frame — the 'chopper' grip. Your index knuckle should sit on bevel 2 (the top-right bevel for right-handers). This is the only grip for a consistent serve.",
+      "tip": "If your palm is flat on the back of the handle, you're using the wrong grip.",
+      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/5UkpSMXbWAc", "caption": "Tennis serve mechanics step by step" }
+    },
+    {
+      "number": 2,
+      "title": "Stand sideways to the baseline",
+      "instruction": "Position your front foot at a 45-degree angle to the baseline, back foot parallel to the baseline. This sideways stance coils your body for rotation — like loading a spring.",
+      "tip": "Your front foot should point toward the right net post (for right-handers serving from the deuce court).",
+      "media": null
+    },
+    {
+      "number": 3,
+      "title": "Toss with your non-dominant arm only",
+      "instruction": "The toss arm should stay straight throughout. Lift — don't throw — the ball from waist height. Release it at eye level and let it float up. No spin, no wrist flip.",
+      "tip": "Practice the toss alone: catch it back in your hand without swinging. It should land in the same spot every time.",
+      "media": null
+    },
+    {
+      "number": 4,
+      "title": "Toss slightly in front and to your right",
+      "instruction": "For a flat serve, toss 1 o'clock position (in front of your right shoulder). This positions the ball so you can swing through it efficiently at full arm extension.",
+      "tip": "A toss that's too far behind will cause you to arch back and lose power.",
+      "media": null
+    },
+    {
+      "number": 5,
+      "title": "The trophy position: scratch your back",
+      "instruction": "As the ball rises, bring your racket behind your head like you're about to scratch between your shoulder blades. Elbow up, racket head dropping down behind. This is the 'trophy position' — the loaded position.",
+      "tip": "Don't rush this — let the ball dictate your timing.",
+      "media": null
+    },
+    {
+      "number": 6,
+      "title": "Drive up with your legs",
+      "instruction": "Bend your knees as you load, then explode upward as you swing. The power in a serve comes from your legs and torso rotation, not your arm. Think 'up and through', not 'swing sideways'.",
+      "tip": "You should feel like you're jumping toward the ball.",
+      "media": null
+    },
+    {
+      "number": 7,
+      "title": "Hit at full arm extension — reach for the sky",
+      "instruction": "Contact the ball at the highest point you can reach with a straight arm. The higher the contact point, the better the angle into the service box. Think of trying to touch the ceiling.",
+      "tip": "Most beginners hit too low. Consciously try to hit higher.",
+      "media": null
+    },
+    {
+      "number": 8,
+      "title": "Pronate your wrist at contact",
+      "instruction": "At the moment of impact, rotate your forearm inward (pronation) so your palm faces the ground after contact. This adds speed and is what prevents elbow injuries on the serve.",
+      "tip": "If you're slapping the ball, you're not pronating enough.",
+      "media": null
+    },
+    {
+      "number": 9,
+      "title": "Follow through across your body",
+      "instruction": "After contact, let your arm swing naturally across to your left hip (for right-handers). Don't stop the racket abruptly. A full follow-through is what transfers energy efficiently and protects your shoulder.",
+      "tip": "Your racket should end up pointing to your left foot.",
+      "media": null
+    },
+    {
+      "number": 10,
+      "title": "Land inside the court and recover",
+      "instruction": "Let your momentum carry your back foot forward so you land inside the baseline in an athletic ready position. You're now prepared for the return. A serve that leaves you off-balance wastes any advantage you gained.",
+      "tip": "Focus on consistency before power — a 60% first serve beats a 20% bomb.",
+      "media": null
+    }
+  ],
+  "tags": ["tennis", "sports", "serve", "racket sports", "technique"],
+  "sources": ["https://www.tennisabstract.com/", "https://www.usta.com/"]
+}

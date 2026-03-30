@@ -1,0 +1,83 @@
+{
+  "slug": "chess-openings",
+  "title": "How to Play Chess Openings Correctly",
+  "category": "Games & Strategy",
+  "categorySlug": "games-strategy",
+  "description": "Most beginners lose in the opening without knowing why. Three principles cover 90% of what you need to start strong in any game.",
+  "timeToNotice": "45 seconds",
+  "timeToAchieve": "1 day",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Control the center with pawns first",
+      "instruction": "Open with 1.e4 or 1.d4. These moves stake a claim in the four central squares (e4, e5, d4, d5). A piece in the center controls more squares than a piece on the edge.",
+      "tip": "e4 leads to sharper, more tactical games. d4 tends to be more strategic.",
+      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/f8BqnrC5o5k", "caption": "Chess opening principles explained" }
+    },
+    {
+      "number": 2,
+      "title": "Develop your knights before bishops",
+      "instruction": "Knights must jump to reach the center; bishops slide diagonally so they can develop later. A knight on f3 or c3 is almost always good — you don't need to decide its final square yet.",
+      "tip": "Don't move the same piece twice in the opening unless you must.",
+      "media": null
+    },
+    {
+      "number": 3,
+      "title": "Don't move the same piece twice",
+      "instruction": "Every opening move should develop a new piece. If you move a piece twice before castling, your opponent gets two developed pieces for your one. This is called a 'tempo loss' and it compounds fast.",
+      "tip": "Exception: you can move a piece twice to win material or avoid losing it.",
+      "media": null
+    },
+    {
+      "number": 4,
+      "title": "Castle early — king safety is paramount",
+      "instruction": "Castle before move 10 if possible. An uncastled king in the center is a target. Once you castle, you also connect your rooks, which is a bonus.",
+      "tip": "If both your knights and bishops are developed, you can usually castle.",
+      "media": null
+    },
+    {
+      "number": 5,
+      "title": "Don't bring your queen out early",
+      "instruction": "The queen is powerful but easily chased. If you play Qh5 on move 2, your opponent plays Nf6 and you've wasted moves running away. Develop minor pieces (knights and bishops) first.",
+      "tip": "Beginners love bringing the queen out early. Experienced players love punishing it.",
+      "media": null
+    },
+    {
+      "number": 6,
+      "title": "Connect your rooks after castling",
+      "instruction": "After castling, your goal is to get your rooks on open or semi-open files. To connect them, clear all pieces off the back rank between them. Connected rooks double each other's power.",
+      "tip": "Rooks belong on open files — files with no pawns blocking them.",
+      "media": null
+    },
+    {
+      "number": 7,
+      "title": "Learn one opening as White and one as Black",
+      "instruction": "Pick one system for each color and learn it deeply rather than dabbling. As White: the Italian Game (1.e4 e5 2.Nf3 Nc6 3.Bc4). As Black vs 1.e4: the Caro-Kann (1...c6). Both are solid and well-studied.",
+      "tip": "Consistency builds pattern recognition faster than variety.",
+      "media": null
+    },
+    {
+      "number": 8,
+      "title": "Avoid pawn grabbing in the opening",
+      "instruction": "Don't spend moves capturing pawns if it means falling behind in development. A pawn is worth 1 point; a tempo in the opening is worth more. Take pawns when it doesn't cost you development.",
+      "tip": "The Scholar's Mate and similar tricks work because beginners prioritize material over development.",
+      "media": null
+    },
+    {
+      "number": 9,
+      "title": "Think about your opponent's threats every move",
+      "instruction": "Before playing your planned move, ask: 'What is my opponent threatening?' If their last move threatens nothing, play your plan. If it threatens something, decide whether to respond or ignore it.",
+      "tip": "Most beginner blunders come from not asking this question.",
+      "media": null
+    },
+    {
+      "number": 10,
+      "title": "Review your games — openings are memorized by losing",
+      "instruction": "After each game, look at where you deviated from sound opening principles. Use a free engine (Lichess analysis) to see where the position went wrong. You'll internalize the right moves faster from your own mistakes than from memorizing theory.",
+      "tip": "Lichess.org is free, has built-in analysis, and is the best tool for this.",
+      "media": null
+    }
+  ],
+  "tags": ["chess", "strategy", "board games", "openings", "beginner"],
+  "sources": ["https://www.lichess.org/learn", "https://www.chess.com/learn-how-to-play-chess"]
+}

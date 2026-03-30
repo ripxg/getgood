@@ -1,0 +1,83 @@
+{
+  "slug": "touch-typing",
+  "title": "How to Start Touch Typing",
+  "category": "Tech & Tools",
+  "categorySlug": "tech-tools",
+  "description": "Touch typing is one of the highest ROI skills you can learn. It's not about speed — it's about freeing your brain from thinking about the keyboard.",
+  "timeToNotice": "45 seconds",
+  "timeToAchieve": "1 day",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Learn the home row — it's your anchor",
+      "instruction": "Place your left fingers on A S D F and right fingers on J K L ;. Your index fingers rest on F and J — feel the raised bumps. You always return here between keystrokes. This is the foundation of everything.",
+      "tip": "Most keyboards have tactile bumps on F and J. Find them now.",
+      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/1ArVtCQqQRE", "caption": "Touch typing fundamentals and finger placement" }
+    },
+    {
+      "number": 2,
+      "title": "Assign each finger its keys",
+      "instruction": "Left pinky: Q A Z. Left ring: W S X. Left middle: E D C. Left index: R F V T G B. Right index: Y H N U J M. Right middle: I K ,. Right ring: O L .. Right pinky: P ; /. Memorise this map — it's the whole system.",
+      "tip": "Print a keyboard layout diagram and keep it next to you.",
+      "media": null
+    },
+    {
+      "number": 3,
+      "title": "Do NOT look at the keyboard",
+      "instruction": "Cover your hands with a cloth, turn your keyboard upside down, or use a blank keyboard. Looking is a crutch that prevents muscle memory from forming. The discomfort of not looking is exactly where the learning happens.",
+      "tip": "The first day will feel agonizingly slow. That's normal — you're rewiring.",
+      "media": null
+    },
+    {
+      "number": 4,
+      "title": "Start with free tools: Keybr or Monkeytype",
+      "instruction": "Go to keybr.com. It starts with just 4 keys and adds more as your accuracy improves. This graduated approach is scientifically better than practicing the whole keyboard at once.",
+      "tip": "Keybr for building the habit; Monkeytype for testing speed once you have it.",
+      "media": null
+    },
+    {
+      "number": 5,
+      "title": "Accuracy over speed — always",
+      "instruction": "Slow down until you can type a key correctly 95% of the time before moving on. Speed is a byproduct of accuracy. Typing fast with errors means you're just reinforcing the wrong muscle patterns.",
+      "tip": "If you're making more than 1 mistake per 10 keystrokes, you're going too fast.",
+      "media": null
+    },
+    {
+      "number": 6,
+      "title": "Practice in short, focused bursts",
+      "instruction": "15 minutes of focused practice beats 1 hour of distracted drilling. Set a timer for 15 minutes, practice with full attention, then stop. Two to three sessions per day is enough to see fast progress.",
+      "tip": "Your fingers build memory during rest, not just during practice.",
+      "media": null
+    },
+    {
+      "number": 7,
+      "title": "Use the correct finger every single time",
+      "instruction": "The moment you cheat and use the wrong finger 'just this once', you're creating a competing habit. If you catch yourself using the wrong finger, go back and retype the word correctly with the right one.",
+      "tip": "Consistency is everything in the early stages.",
+      "media": null
+    },
+    {
+      "number": 8,
+      "title": "Practice real words, not just random letters",
+      "instruction": "Random letter drills build key knowledge but not typing rhythm. After your first week, switch to typing real words and sentences — common English words follow predictable patterns your hands will memorize.",
+      "tip": "The 200 most common English words make up 50% of written text. Learn those first.",
+      "media": null
+    },
+    {
+      "number": 9,
+      "title": "Use touch typing for ALL your real work",
+      "instruction": "The fastest way to improve is to use touch typing in your actual work — emails, chats, documents. Every real-world sentence you type is practice. Switching back to hunt-and-peck for 'important' things defeats the purpose.",
+      "tip": "It will be slower at first. Accept the dip — it's temporary.",
+      "media": null
+    },
+    {
+      "number": 10,
+      "title": "Expect 60+ WPM within 3-6 months",
+      "instruction": "Most people reach conversational typing speed (40-60 WPM) within 6-8 weeks of daily practice. With dedicated effort, 80-100 WPM is achievable in 3-6 months. You're not just learning to type — you're upgrading a skill you'll use every day for the rest of your life.",
+      "tip": "Average hunt-and-peck is ~35 WPM. Touch typing unlocks 60-100 WPM. The ROI compounds forever.",
+      "media": null
+    }
+  ],
+  "tags": ["typing", "productivity", "keyboard", "tech skills", "habit"],
+  "sources": ["https://www.keybr.com/", "https://monkeytype.com/"]
+}

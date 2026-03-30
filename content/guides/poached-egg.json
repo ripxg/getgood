@@ -1,0 +1,83 @@
+{
+  "slug": "poached-egg",
+  "title": "How to Make a Perfect Poached Egg",
+  "category": "Food & Cooking",
+  "categorySlug": "food-cooking",
+  "description": "Poached eggs intimidate most home cooks. The technique is actually simple once you understand why each step matters.",
+  "timeToNotice": "45 seconds",
+  "timeToAchieve": "1 day",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Use the freshest eggs you can find",
+      "instruction": "Fresh eggs have tight whites that stay together in the water. Old eggs have watery whites that spread and create the 'ghost egg' effect of wispy strands floating everywhere. Check the date — within 1 week is ideal.",
+      "tip": "Test freshness: fresh eggs sink flat in water, old eggs stand up or float.",
+      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/sEBzKAmNHUA", "caption": "How to poach an egg perfectly every time" }
+    },
+    {
+      "number": 2,
+      "title": "Use a wide, shallow pan — not a pot",
+      "instruction": "You need room for the egg to spread slightly and float freely. A shallow depth also means less distance for the egg to fall when you add it. A frying pan with 2-3 inches of water is ideal.",
+      "tip": "Deeper water = longer drop = more white separation. Shallower is better.",
+      "media": null
+    },
+    {
+      "number": 3,
+      "title": "Add a splash of white vinegar",
+      "instruction": "1-2 tablespoons of white wine vinegar or plain white vinegar. The acid speeds up protein coagulation in the white, helping it set faster and hold together. You won't taste it in the final egg.",
+      "tip": "Don't use balsamic or red wine vinegar — the colour and flavour are too strong.",
+      "media": null
+    },
+    {
+      "number": 4,
+      "title": "Bring water to a gentle simmer — not a boil",
+      "instruction": "Small bubbles breaking the surface gently (about 80-85°C). A rolling boil thrashes the egg apart. Turn the heat to medium-low and look for a steady, gentle activity in the water.",
+      "tip": "If it's boiling too hard, just take it off the heat for 30 seconds.",
+      "media": null
+    },
+    {
+      "number": 5,
+      "title": "Crack the egg into a small cup first",
+      "instruction": "Never crack directly into the water — you'll break the yolk or miss the pan. Crack into a small ramekin or cup first. This also lets you check for shell fragments and positions the egg perfectly for a clean entry.",
+      "tip": "A single egg cup per egg. Don't pre-crack multiple eggs into one cup.",
+      "media": null
+    },
+    {
+      "number": 6,
+      "title": "Create a gentle whirlpool",
+      "instruction": "Stir the water in one direction with a spoon to create a slow whirlpool. Lower your cup into the center and pour the egg gently into the eye of the swirl. The rotation wraps the white around the yolk.",
+      "tip": "The whirlpool technique works best for one egg at a time.",
+      "media": null
+    },
+    {
+      "number": 7,
+      "title": "Slide the egg in close to the water surface",
+      "instruction": "Hold the cup just above the water surface — 1-2cm. The gentler the entry, the more intact the white stays. Dropping from height gives you wispy edges.",
+      "tip": "Think 'release, don't pour'.",
+      "media": null
+    },
+    {
+      "number": 8,
+      "title": "Cook for exactly 3 minutes for a runny yolk",
+      "instruction": "Set a timer. 3 minutes gives you a set white with a warm, runny yolk. 3.5-4 minutes for a jammy yolk that's still soft but not liquid. 5+ minutes for fully set. Don't eyeball it — use the timer.",
+      "tip": "Altitude affects timing slightly — add 30 seconds if you're above 1500m.",
+      "media": null
+    },
+    {
+      "number": 9,
+      "title": "Remove with a slotted spoon and blot dry",
+      "instruction": "Lift the egg with a slotted spoon and briefly rest it on a folded paper towel or clean cloth. This removes excess water that would make your toast soggy. 5 seconds is enough.",
+      "tip": "Gently press the top of the egg to test firmness — soft means runny yolk.",
+      "media": null
+    },
+    {
+      "number": 10,
+      "title": "Season immediately and serve hot",
+      "instruction": "Add flaky sea salt and black pepper directly onto the egg as soon as it's plated. Poached eggs cool quickly — have your toast, avocado, or base ready before you drop the egg.",
+      "tip": "A squeeze of lemon juice over the egg before serving adds brightness.",
+      "media": null
+    }
+  ],
+  "tags": ["cooking", "eggs", "brunch", "breakfast", "kitchen basics"],
+  "sources": ["https://www.seriouseats.com/the-best-way-to-poach-eggs", "https://www.bbcgoodfood.com/techniques/how-to-poach-an-egg"]
+}

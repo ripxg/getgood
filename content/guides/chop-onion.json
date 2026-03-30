@@ -1,0 +1,83 @@
+{
+  "slug": "chop-onion",
+  "title": "How to Chop an Onion Fast (Without Crying)",
+  "category": "Food & Cooking",
+  "categorySlug": "food-cooking",
+  "description": "The classic chef's dice technique that saves time and your eyes. Once you get the geometry, you'll never go back to messy hacking.",
+  "timeToNotice": "45 seconds",
+  "timeToAchieve": "1 day",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Use a sharp knife — this is non-negotiable",
+      "instruction": "A dull knife crushes onion cells, releasing more of the lachrymatory factor (the chemical that makes you cry). A sharp knife makes clean cuts, releases less, and is dramatically faster.",
+      "tip": "Run the blade lightly over a honing steel before you start.",
+      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/MNPMzxLMXKQ", "caption": "Professional onion chopping technique" }
+    },
+    {
+      "number": 2,
+      "title": "Cut off the stem end, leave the root",
+      "instruction": "Slice off the papery stem (top) end. Leave the hairy root end completely intact — it holds the layers together while you cut and prevents the onion from falling apart.",
+      "tip": "The root end is your anchor. Never cut it until the very end.",
+      "media": null
+    },
+    {
+      "number": 3,
+      "title": "Halve through the root",
+      "instruction": "Stand the onion on the flat stem end and cut straight down through the center of the root. You now have two halves, each with a piece of root to grip.",
+      "tip": "This gives you a stable flat surface to work from.",
+      "media": null
+    },
+    {
+      "number": 4,
+      "title": "Peel the papery skin",
+      "instruction": "With the onion lying flat, lift the skin from the cut edge and peel it back toward the root. The skin comes off easily from this angle in one smooth motion.",
+      "tip": "If the first layer looks dry or damaged, remove that too.",
+      "media": null
+    },
+    {
+      "number": 5,
+      "title": "Make horizontal cuts (parallel to the board)",
+      "instruction": "Hold the onion flat with your non-dominant hand, fingers curled. Make 2-3 horizontal slices parallel to the cutting board, stopping before the root. This creates the layers for your dice.",
+      "tip": "Keep your knife nearly parallel to the board. Don't cut all the way through.",
+      "media": null
+    },
+    {
+      "number": 6,
+      "title": "Make vertical cuts toward the root",
+      "instruction": "Now make vertical cuts from the stem end toward the root, fanning outward slightly following the natural curve of the onion. Again, stop just before the root — it's still holding everything together.",
+      "tip": "Closer cuts = finer dice. Space them for your desired size.",
+      "media": null
+    },
+    {
+      "number": 7,
+      "title": "Dice across with the claw grip",
+      "instruction": "Curl your fingertips under (the 'claw' grip) so your knuckles guide the blade. Now slice across the onion from stem end to root. The pre-cut grid turns into perfect cubes automatically.",
+      "tip": "Let your knuckles touch the flat of the blade — it's the safeguard.",
+      "media": null
+    },
+    {
+      "number": 8,
+      "title": "Discard the root piece",
+      "instruction": "When you reach the root end, discard that piece — it's done its job. You should have an even pile of diced onion with minimal waste.",
+      "tip": "The root piece is tough — don't try to dice it.",
+      "media": null
+    },
+    {
+      "number": 9,
+      "title": "Chilling the onion reduces tears",
+      "instruction": "If you're particularly sensitive to onion fumes, refrigerate the onion for 30 minutes before cutting. Cold temperatures slow the chemical reaction that causes tearing.",
+      "tip": "Cutting near an open window or fan also helps — airflow disperses the fumes.",
+      "media": null
+    },
+    {
+      "number": 10,
+      "title": "Practice the rhythm — speed comes from consistency",
+      "instruction": "Don't try to go fast right away. The dice technique has a 3-step rhythm: horizontals → verticals → cross-cuts. Repeat it slowly 3-4 times on successive onions and speed will come naturally.",
+      "tip": "Professional chefs aren't faster because they rush — they're faster because every movement is deliberate.",
+      "media": null
+    }
+  ],
+  "tags": ["cooking", "knife skills", "kitchen basics", "vegetables", "chef technique"],
+  "sources": ["https://www.seriouseats.com/knife-skills-how-to-dice-an-onion", "https://www.bonappetit.com/"]
+}

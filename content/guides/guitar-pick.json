@@ -1,0 +1,83 @@
+{
+  "slug": "guitar-pick",
+  "title": "How to Hold a Guitar Pick Correctly",
+  "category": "Music",
+  "categorySlug": "music",
+  "description": "The way you hold your pick determines your tone, speed, and whether you'll injure yourself. Most self-taught players have habits that hold them back for years.",
+  "timeToNotice": "45 seconds",
+  "timeToAchieve": "1 day",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Choose the right pick thickness to start",
+      "instruction": "Start with a medium pick (0.73mm). Thin picks (0.46mm) are floppy and unpredictable; very thick picks (1.5mm+) require more technique to control. Medium is forgiving while you build fundamentals.",
+      "tip": "Dunlop Tortex 0.73mm (yellow) is the standard beginner recommendation.",
+      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/MxrBMvsYuaQ", "caption": "How to hold a guitar pick — the right way" }
+    },
+    {
+      "number": 2,
+      "title": "Curl your index finger naturally",
+      "instruction": "Let your hand relax into a gentle fist. Your index finger will naturally curl. This is the base position. Don't force it — the natural curl of a relaxed hand is the starting point.",
+      "tip": "Tension in the hand = tension in the playing. Start relaxed.",
+      "media": null
+    },
+    {
+      "number": 3,
+      "title": "Place the pick on the side of your index finger",
+      "instruction": "Rest the pick on the side of your curled index finger — not on the tip, but on the pad between the first and second joint. The pick should point roughly perpendicular to your finger.",
+      "tip": "Think of the finger as a shelf, not a pincher.",
+      "media": null
+    },
+    {
+      "number": 4,
+      "title": "Pin it with your thumb pad — not tip",
+      "instruction": "Bring your thumb down onto the pick using the flat pad of your thumb, not the very tip. Your thumb should sit roughly parallel to the pick. About 5-8mm of pick should protrude beyond your fingers.",
+      "tip": "Too much pick exposed = floppy, sloppy tone. Too little = muted, stiff attack.",
+      "media": null
+    },
+    {
+      "number": 5,
+      "title": "Hold firmly but not tight",
+      "instruction": "If someone tried to snatch the pick from you, they shouldn't be able to easily — but you shouldn't be white-knuckling it either. The grip should be 'confident but relaxed'. Think 5/10 grip pressure.",
+      "tip": "A tight grip kills tone and causes tension injuries over time.",
+      "media": null
+    },
+    {
+      "number": 6,
+      "title": "Keep the pick angled slightly, not perpendicular to the strings",
+      "instruction": "Tilt the pick slightly so it glides through the strings rather than plowing into them. About 10-15 degrees angle is ideal. This reduces pick noise, improves tone, and makes faster playing easier.",
+      "tip": "Perpendicular pick attack = clicky, harsh tone. Slight angle = smooth attack.",
+      "media": null
+    },
+    {
+      "number": 7,
+      "title": "Anchor your picking hand to the guitar body",
+      "instruction": "Rest the heel of your palm lightly on the bridge of the guitar. This anchors your hand and gives you control. Floating with no contact point leads to inconsistent picking and string-crossing errors.",
+      "tip": "For cleaner playing, you can also rest lightly on the strings just above the bridge.",
+      "media": null
+    },
+    {
+      "number": 8,
+      "title": "Pick from the wrist, not the arm",
+      "instruction": "The picking motion should come from a loose, rotating wrist — like turning a doorknob or dripping water from your hand. Using your whole arm to pick is exhausting and slow. Wrist motion is efficient and fast.",
+      "tip": "Practice the wrist rotation motion without even touching the guitar to build the muscle memory.",
+      "media": null
+    },
+    {
+      "number": 9,
+      "title": "Use alternate picking from day one",
+      "instruction": "Always alternate down-up-down-up strokes, even on single notes. Down-only picking is a ceiling on your speed. Alternate picking is how all fast players play — it's worth learning from the start.",
+      "tip": "Start slow with a metronome. 60 BPM, one note per beat, down-up alternating.",
+      "media": null
+    },
+    {
+      "number": 10,
+      "title": "The pick will drop — and that's fine",
+      "instruction": "Your pick will rotate or drop during playing, especially early on. It means your grip needs a bit more firmness. Don't grip harder — instead, focus on the thumb pad placement. The drop usually stops within a week of conscious correction.",
+      "tip": "Buy 10 picks — keep them everywhere. Losing picks is a rite of passage.",
+      "media": null
+    }
+  ],
+  "tags": ["guitar", "music", "beginner", "technique", "instrument"],
+  "sources": ["https://www.justinguitar.com/", "https://www.musicradar.com/guitars"]
+}
