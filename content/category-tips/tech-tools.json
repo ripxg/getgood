@@ -1,0 +1,70 @@
+{
+  "categorySlug": "tech-tools",
+  "category": "Tech & Tools",
+  "emoji": "💻",
+  "metaTitle": "Top 10 Tech & Tools Tips That Actually Make a Difference | GetGood",
+  "metaDescription": "Ten non-obvious tech insights — from why reading error messages literally saves hours to how version control changes your relationship with risk.",
+  "intro": "Technology tools have enormous hidden depth. These ten insights come from professional developers and power users — the mental models that separate someone who uses tools from someone who understands them.",
+  "tips": [
+    {
+      "number": 1,
+      "title": "Read the error message. The whole error message.",
+      "insight": "The single most common cause of wasted debugging time is not reading the full error message. Most errors tell you exactly what went wrong and often where. Developers habitually skim errors and then spend an hour on Stack Overflow solving the wrong problem. The habit to build: when you see an error, stop, read the entire message including the stack trace, then Google only after you've understood what the error is actually saying.",
+      "why": "The answer is usually in the error. Reading it feels slow; not reading it is slower."
+    },
+    {
+      "number": 2,
+      "title": "Version control changes your relationship with risk",
+      "insight": "Most people learn Git as a way to back up code. The real value is psychological: when you can always go back, you can try anything. Experienced developers commit frequently (sometimes every 10-15 minutes), make changes more boldly, and refactor without fear because every commit is a checkpoint. Git also makes you think in explicit change units — 'what is the one thing I'm changing right now?' — which produces better, more focused work.",
+      "why": "Commit early, commit often. The cost of committing is near zero. The cost of not committing is potentially everything."
+    },
+    {
+      "number": 3,
+      "title": "The command line is not hard — it's just unfamiliar",
+      "instruction": "The command line feels intimidating because it has no visual affordances — nothing to click, no obvious buttons. But it's actually faster than GUIs for the tasks it's good at: file manipulation, searching, automation, and remote server access. The barrier is purely familiarity. Spending one week deliberately using the terminal for file management, text search (ripgrep), and basic scripting transforms your relationship with computers.",
+      "why": "Every hour invested in terminal fluency pays dividends for the rest of your computing life."
+    },
+    {
+      "number": 4,
+      "title": "Keyboard shortcuts compound — the best ones to learn first",
+      "insight": "Keyboard shortcuts feel marginal until you internalise them — then the cumulative time saving is significant. The highest-ROI shortcuts are the ones you use dozens of times per day: window switching (Cmd/Ctrl+Tab), text editing (Home/End, Ctrl+arrow), browser tab management (Ctrl+T/W/Tab), and application launchers (Spotlight, Alfred, Raycast). Learn 3-5 new shortcuts per week until they're reflexive, not 50 at once.",
+      "why": "The shortcuts you use 50 times a day are worth 100x more than shortcuts you use once a week."
+    },
+    {
+      "number": 5,
+      "title": "Automate anything you do more than three times",
+      "insight": "The 'Rule of Three' in programming: if you do something manually once, do it manually. If it happens a second time, note it. If it happens a third time, automate it. This applies to any repetitive computer task — file renaming, data formatting, report generation. Even a rough shell script or macro that takes 30 minutes to write pays off after 2-3 uses of a 20-minute manual task. The compounding effect over months and years is enormous.",
+      "why": "Manual repetition is technical debt on your time."
+    },
+    {
+      "number": 6,
+      "title": "The best search engine query includes the error and the context",
+      "insight": "Most people search 'how to do X'. Better searches include the exact error message in quotes, the technology version, and the context. 'TypeError: cannot read property of undefined' gets generic answers. 'TypeError: cannot read property of undefined React useEffect async' gets specific, actionable answers. Copying the exact error message verbatim into a search (with quotes around the unique part) is consistently the fastest path to a solution.",
+      "why": "Vague queries get generic answers. Specific queries get specific solutions."
+    },
+    {
+      "number": 7,
+      "title": "Understanding one abstraction level below where you work pays enormous dividends",
+      "insight": "Web developers who understand how HTTP actually works debug network issues faster. Database users who understand indexes and query execution plans fix performance problems that mystify others. You don't need to understand everything two levels below — just one. The layer below you demystifies the error messages, performance characteristics, and constraints of the layer you work in. It converts confusion into 'oh, that's why'.",
+      "why": "Every abstraction leaks. Knowing what's underneath is how you debug the leaks."
+    },
+    {
+      "number": 8,
+      "title": "The most powerful productivity tool is reducing context switching",
+      "insight": "Deep work on complex technical tasks requires concentration that takes 15-25 minutes to reach. Each interruption (notification, message, context switch to another task) destroys that accumulated concentration. Research shows it takes an average of 23 minutes to fully return to a task after an interruption. For technical work, 2 hours of uninterrupted focus routinely produces more than 6 hours of interrupted work. Protecting your focus time is a higher-leverage intervention than any tool.",
+      "why": "Your best work happens in the last hour of an uninterrupted block, not in the first 20 minutes."
+    },
+    {
+      "number": 9,
+      "title": "Rubber duck debugging works because the problem is usually in your model",
+      "insight": "Explaining a problem out loud to an inanimate object (a rubber duck, a colleague, or writing it down) consistently helps programmers find bugs they couldn't find by staring at code. The reason: the act of verbalising forces you to be explicit about your mental model of what the code does, and that mental model is usually where the bug is — not in the code itself. The mismatch between what you think the code does and what it actually does is exposed the moment you have to state it clearly.",
+      "why": "Write out exactly what your code does step by step before you debug. The bug is usually in the explanation."
+    },
+    {
+      "number": 10,
+      "title": "Naming things well is the highest-leverage coding skill",
+      "insight": "More software development time is spent reading code than writing it — some estimates say 10:1. The quality of variable, function, and class names determines how fast that reading happens. A function called `processData()` forces a reader to understand its implementation. A function called `calculateMonthlyActiveUsers()` is self-documenting. Good names reduce the cognitive load of code review, debugging, and maintenance. It's the skill that benefits everyone who touches the code after you.",
+      "why": "You write code once. Others read it for years. Name things for the reader."
+    }
+  ]
+}

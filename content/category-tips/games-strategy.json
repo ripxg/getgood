@@ -1,0 +1,70 @@
+{
+  "categorySlug": "games-strategy",
+  "category": "Games & Strategy",
+  "emoji": "♟️",
+  "metaTitle": "Top 10 Strategy & Games Tips That Actually Make a Difference | GetGood",
+  "metaDescription": "Ten non-obvious strategy insights — from why amateurs think in moves while experts think in positions, to how loss aversion costs you more than bad decisions.",
+  "intro": "Strategic thinking is a learnable skill. These insights come from game theory, cognitive science, and the study of expert decision-making — applicable whether you're playing chess, poker, or making business decisions.",
+  "tips": [
+    {
+      "number": 1,
+      "title": "Amateurs think in moves. Experts think in positions.",
+      "insight": "The fundamental difference between beginner and expert strategic thinking is time horizon. Beginners ask 'what's the best move here?' Experts ask 'what position do I want to be in 5 moves from now, and how do I steer toward it?' This applies to chess, poker, negotiations, and business strategy. Moves are tactics; positions are strategy. Most people never develop strategic thinking because they're always optimising locally.",
+      "why": "The question isn't 'what's the best move?' It's 'what position am I building toward?'"
+    },
+    {
+      "number": 2,
+      "title": "Loss aversion costs you more than bad decisions",
+      "insight": "Kahneman and Tversky's prospect theory shows that humans feel losses roughly twice as intensely as equivalent gains. In games, this manifests as over-defending losing positions, failing to take calculated risks, and making suboptimal decisions to avoid the feeling of losing rather than to maximise expected value. Recognising when you're playing 'not to lose' versus 'to win' is a fundamental strategic metacognition skill.",
+      "why": "The fear of losing a piece is usually worth more than the piece itself. Rationality requires accounting for this."
+    },
+    {
+      "number": 3,
+      "title": "The best move in an unclear position is often to improve your worst piece",
+      "insight": "In chess, this principle (attributed to Silman's 'imbalances' theory) applies broadly: in any complex strategic situation where the right move isn't clear, improving your weakest asset is almost always correct. In chess, move the passive bishop. In business, fix the bottleneck. In team strategy, strengthen the weakest link. This heuristic breaks decision paralysis in ambiguous positions by providing a clear action principle.",
+      "why": "When you don't know what to do, improve what's worst. It's rarely the wrong call."
+    },
+    {
+      "number": 4,
+      "title": "The second-best response to aggression is controlled counter-aggression",
+      "insight": "Purely defensive play against an aggressive opponent almost always loses over time. The defender must react, which is exhausting and gives the attacker initiative. The strategically sound response is usually to find counter-threats that force the aggressor to react instead. In chess this is the 'counter-attack'; in negotiation it's 'not just saying no but introducing new demands'; in competition it's 'opening a second front'. Defense without counter-threat is slow death.",
+      "why": "Responding to aggression with pure defense concedes initiative. Counter-threats change the dynamic."
+    },
+    {
+      "number": 5,
+      "title": "Most games are won by limiting your opponent's options, not maximising your own",
+      "insight": "Beginners focus on expanding their own possibilities. Advanced players focus on restricting their opponent's. In chess, zugzwang (a position where any move worsens your situation) is the ultimate expression of this. In poker, bet sizing that makes calling and folding both bad for the opponent is the goal. In most strategic domains, creating situations where all of your opponent's options are bad beats finding brilliant moves of your own.",
+      "why": "The most powerful strategic positions are where your opponent has no good moves."
+    },
+    {
+      "number": 6,
+      "title": "Variance is your friend when you're the underdog",
+      "insight": "If you're playing against a stronger opponent and play 'solid' low-variance chess/poker/strategy, you give their edge maximum opportunity to manifest. High-variance play (complications, imbalances, gambits) increases the chance of a lucky outcome, which is the underdog's only path to winning. Correspondingly, if you're the stronger player, simplify — convert complexity to technical positions where skill dominates. Adjust variance based on whether you need it.",
+      "why": "Play to your relative strength. Underdogs need variance; favourites should eliminate it."
+    },
+    {
+      "number": 7,
+      "title": "Pattern recognition beats calculation for most decisions",
+      "insight": "Research on chess grandmasters (Chase & Simon) found they don't calculate deeper than average — they recognise more patterns. Grandmasters can reconstruct real game positions from a 5-second glance because they've stored ~50,000 position patterns. Most of chess (and most strategic domains) is pattern matching, not brute-force calculation. This is why studying master games and reviewing your own losses is more valuable than solving puzzles — it builds pattern libraries.",
+      "why": "You don't get better by thinking harder. You get better by recognising more."
+    },
+    {
+      "number": 8,
+      "title": "The endgame requires completely different thinking than the opening",
+      "insight": "In chess, opening and middlegame principles (active pieces, king safety, initiative) can become liabilities in endgames where king activity, pawn structure, and opposition are dominant. Many players who are good in complex positions are weak in endgames because they apply middlegame thinking. This principle applies broadly: the rules that got you to a dominant position are often not the rules for closing it out. Strategic phases have different success criteria.",
+      "why": "Closing out a winning position requires different skills than creating one."
+    },
+    {
+      "number": 9,
+      "title": "Information asymmetry is more valuable than material advantage",
+      "insight": "In poker, knowing your opponent's hand is worth infinitely more than having better cards. In negotiation, knowing the other party's BATNA (best alternative to negotiated agreement) is the most powerful possible position. In strategy broadly, controlling what information your opponent has — and what they believe about what you have — often outweighs pure resource superiority. The illusion of weakness can be as powerful as actual strength.",
+      "why": "What your opponent doesn't know about you is often your most powerful asset."
+    },
+    {
+      "number": 10,
+      "title": "Review your wins as hard as your losses",
+      "insight": "Most players review their losses. Few review their wins. But wins can contain just as many mistakes — you simply got away with them. Reviewing wins and identifying where you got lucky, where your opponent made an error that saved you, and where your 'good decision' actually had negative expected value but worked out — this prevents you from learning bad habits from variance. Lucky wins are the most dangerous teachers.",
+      "why": "Getting away with a bad decision is not the same as making a good one."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "categorySlug": "social-communication",
+  "category": "Social & Communication",
+  "emoji": "💬",
+  "metaTitle": "Top 10 Communication Tips That Actually Make a Difference | GetGood",
+  "metaDescription": "Ten non-obvious communication insights — from why most people confuse talking with communicating, to how silence is the most underused persuasion tool.",
+  "intro": "Communication is one of the most studied human behaviours, yet most people operate on inherited habits rather than deliberate skill. These insights draw from negotiation research, social psychology, and linguistics.",
+  "tips": [
+    {
+      "number": 1,
+      "title": "Most people listen to reply, not to understand",
+      "insight": "Research on listening shows that while someone is speaking, most listeners are allocating mental resources to formulating their response rather than processing what's being said. This means large portions of conversations are functionally monologues that happen to alternate. The practice of active listening — suspending your response preparation and focusing entirely on understanding the speaker's meaning — is rarer than it sounds and immediately distinguishes you in any conversation.",
+      "why": "The most powerful thing you can give someone in a conversation is your full attention."
+    },
+    {
+      "number": 2,
+      "title": "Silence is the most underused tool in communication",
+      "insight": "Silence after a question or statement creates psychological pressure that almost always produces more information. In negotiations, Chris Voss calls this 'letting the silence do the work'. Interviewers who pause after an answer consistently get more detailed responses. Salespeople who stay silent after presenting a price close more deals. Most people are so uncomfortable with silence that they fill it — often with concessions, over-explanation, or revealing information they hadn't planned to share.",
+      "why": "After you make your point, stop talking. The next person who speaks loses psychological ground."
+    },
+    {
+      "number": 3,
+      "title": "Label emotions before addressing content",
+      "insight": "When someone is in an emotionally activated state, the rational prefrontal cortex is partially offline. Trying to present logical arguments to an upset person is neurologically inefficient — they can't fully process them. The technique: label the emotion first ('It sounds like you're frustrated that...', 'It seems like this has been really stressful') before addressing the substance. Labelling emotions activates the prefrontal cortex and reduces amygdala activation, making the conversation possible.",
+      "why": "You cannot reason someone out of an emotional state. You can only acknowledge them into one."
+    },
+    {
+      "number": 4,
+      "title": "Questions are more persuasive than statements",
+      "insight": "Telling someone what to think triggers psychological reactance — resistance to perceived attempts at control. Asking questions that lead someone to arrive at a conclusion themselves is dramatically more persuasive and durable. The Socratic method works because beliefs we arrive at ourselves feel true; beliefs we're told feel imposed. In any persuasive context — parenting, sales, leadership, negotiation — 'What would have to be true for X to make sense?' is more powerful than 'X is the right answer because...'",
+      "why": "The most persuasive thing you can do is help someone convince themselves."
+    },
+    {
+      "number": 5,
+      "title": "The framing of a request determines the answer",
+      "insight": "The same request framed differently gets dramatically different responses. 'Can I ask you a favour?' gets yes 88% of the time before the favour is specified, versus much lower when the favour is presented first (Cialdini). 'Would you be willing to...' outperforms 'Could you...' because it signals you respect their autonomy. 'I need X by Tuesday' outperforms 'I was wondering if maybe you could...' because confidence signals legitimacy. Framing is not manipulation — it's respect for how decisions are made.",
+      "why": "How you ask is often more important than what you ask."
+    },
+    {
+      "number": 6,
+      "title": "Mirroring is the simplest rapport-building technique",
+      "insight": "Repeating the last 1-3 words of what someone says (in a slightly questioning tone) is FBI negotiation technique 'mirroring'. It signals you're listening, invites elaboration, and creates a sense of being understood. It sounds almost too simple — but the research (and field use in hostage negotiation) shows it reliably deepens rapport and produces more information sharing. It works because it's non-threatening and makes people feel heard.",
+      "why": "You don't need clever responses to make people feel understood. Just repeat what they said."
+    },
+    {
+      "number": 7,
+      "title": "Written communication should be half as long as you think",
+      "insight": "The most common failure mode in professional writing is length. Long emails get partially read or deferred. Long messages dilute the main point. The discipline: write your message, then cut it in half. Remove the preamble, the over-explanation, and the hedging. A three-sentence email that's clear is better than a ten-sentence email that covers all bases. Brevity respects the reader's time and signals clarity of thought.",
+      "why": "The effort to be brief is a gift to the reader. Most people don't make this effort."
+    },
+    {
+      "number": 8,
+      "title": "Specific compliments are 10x more effective than generic ones",
+      "insight": "'Good job' is almost meaningless. 'The way you handled that client's objection by reframing the pricing as an investment — that was smart' is memorable and motivating. Specific feedback (positive or corrective) demonstrates that you actually noticed, which is the core of feeling seen. Generic compliments are often perceived as automatic rather than genuine. The more specific the observation, the more credible and impactful the compliment.",
+      "why": "Generic praise is forgotten. Specific observation is remembered."
+    },
+    {
+      "number": 9,
+      "title": "Anchoring the first number in any negotiation dramatically shapes the outcome",
+      "insight": "Anchoring (Kahneman) shows that the first number mentioned in a negotiation biases all subsequent discussion toward it — even when both parties know it's arbitrary. The opener with a high anchor wins more, even in complex negotiations. The counter-strategy is not to split the difference from their anchor, but to explicitly dismiss the anchor and re-anchor: 'That number isn't in our range, let me tell you what we're working with.' Never negotiate from their anchor.",
+      "why": "In any negotiation, whoever names a number first sets the reference point. Name it high (or dismiss theirs)."
+    },
+    {
+      "number": 10,
+      "title": "People remember how you made them feel, not what you said",
+      "insight": "Maya Angelou's observation has substantial empirical backing. Memory research (Zajonc's affect heuristic, emotional memory consolidation) consistently shows that the emotional tone of an interaction is encoded more durably than the specific content. In professional and personal contexts, the question to ask after any significant interaction isn't 'did I make my point?' but 'how did that person feel at the end of our conversation?' That's what they'll remember — and act on.",
+      "why": "Optimise for how people feel, not just what they think."
+    }
+  ]
+}

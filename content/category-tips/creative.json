@@ -1,0 +1,70 @@
+{
+  "categorySlug": "creative",
+  "category": "Creative",
+  "emoji": "🎨",
+  "metaTitle": "Top 10 Creative Tips That Actually Make a Difference | GetGood",
+  "metaDescription": "Ten non-obvious creative insights — from why constraints produce better work than freedom to how negative space is doing more work than you think.",
+  "intro": "Creativity is often mystified. These insights come from art direction, design theory, cognitive science, and the study of creative practice — they demystify what makes creative work land.",
+  "tips": [
+    {
+      "number": 1,
+      "title": "Constraints produce better creative work than freedom",
+      "insight": "Paradox of choice research (Barry Schwartz) shows that more options produce worse decisions and less satisfaction. In creative work, constraints — a limited colour palette, a specific format, a deadline, a thematic restriction — force creative problem-solving and often produce more original results than unlimited freedom. Twitter's 140-character limit created new forms of writing. 48-hour film festivals produce surprisingly good films. Set constraints deliberately when you have none.",
+      "why": "Freedom is the enemy of creativity. Constraints are its engine."
+    },
+    {
+      "number": 2,
+      "title": "Negative space is doing more work than the elements you add",
+      "insight": "In design, photography, music, and writing, what you leave out is as important as what you include. Negative space (the empty area around and between subjects) gives the eye somewhere to rest, creates emphasis, and communicates sophistication. Beginners fill space. Experts know when to stop. The pause in music. The white space in design. The short paragraph after a long one. Negative space is not the absence of content — it's content.",
+      "why": "The moment you stop adding things and start subtracting them, your work gets better."
+    },
+    {
+      "number": 3,
+      "title": "Contrast is the fundamental tool of visual communication",
+      "insight": "Every element of visual design communicates through contrast: light/dark, large/small, rough/smooth, static/dynamic, colour/neutral. Without contrast, everything competes equally for attention and nothing is emphasised. The most common mistake in design is insufficient contrast — text that's hard to read, hierarchy that's unclear, layouts where everything feels the same weight. When a design feels 'flat' or 'boring', the problem is almost always insufficient contrast somewhere.",
+      "why": "When you don't know what's wrong with a design, increase the contrast. It's usually the answer."
+    },
+    {
+      "number": 4,
+      "title": "Good ideas come from combining things, not inventing things",
+      "insight": "Research on creative cognition consistently shows that novel ideas emerge from associative thinking — connecting concepts from different domains. Steve Jobs famously said creativity is 'just connecting things'. The strategy this implies: deliberately expose yourself to domains outside your expertise. Read biology if you're a designer. Study typography if you're a photographer. The more diverse your inputs, the more unexpected connections your subconscious can make.",
+      "why": "Original ideas are not created from nothing. They're remixed from unexpected combinations."
+    },
+    {
+      "number": 5,
+      "title": "The first idea is almost never the best one",
+      "insight": "In brainstorming, the obvious ideas come first — they're obvious because everyone has had them. The most interesting creative territory usually appears after the obvious solutions are exhausted. Professionals force themselves to generate 10-20 options before choosing. The discipline: do not evaluate during generation. Write down all ideas including bad ones. Evaluation and generation use different cognitive modes and actively interfere with each other.",
+      "why": "The best idea is on the other side of the obvious one. You have to get through the obvious first."
+    },
+    {
+      "number": 6,
+      "title": "Typography is 95% of design",
+      "insight": "iA (a renowned design studio) published the observation that typography is 95% of graphic design. Most visual design is type — hierarchy, weight, spacing, choice of typeface. Investing in learning typography fundamentals (measure, leading, kerning, typographic hierarchy, typeface pairing) pays off across every visual medium. The difference between a professional design and an amateur one is often traceable to a handful of typographic decisions.",
+      "why": "Learn typography before anything else. It affects everything."
+    },
+    {
+      "number": 7,
+      "title": "Iteration beats inspiration",
+      "insight": "Professional creative work is not produced by waiting for inspiration. It's produced by showing up, making work, and iterating. Ira Glass's 'taste gap' observation: when you start creative work, your taste exceeds your ability. The only way to close the gap is volume — making a lot of work. Professionals produce many mediocre things and some good ones. Amateurs produce few things and expect them all to be good. Volume is the mechanism for improvement.",
+      "why": "Make more things. Quality is a function of quantity, not the other way around."
+    },
+    {
+      "number": 8,
+      "title": "The eye enters a composition at the brightest or highest-contrast point",
+      "insight": "Eye-tracking research confirms that visual attention is drawn automatically to the highest-contrast area of a composition. This means you can deliberately control where a viewer looks first by making that element the highest contrast in the frame. Every composition has an entry point — the question is whether it's the one you intended. Designing the entry point consciously and creating a visual path from there is the core of intentional composition.",
+      "why": "Know where the eye enters your composition. Everything else is built from that."
+    },
+    {
+      "number": 9,
+      "title": "Reference is not cheating — it's how professionals work",
+      "insight": "Every professional creative maintains extensive reference libraries. Designers use mood boards. Illustrators use photo references. Filmmakers use visual references in every pitch deck. Reference is not copying — it's a tool for understanding what works and communicating creative intent. The resistance to using reference (feeling that it's cheating) is a beginner mindset. Using reference well is a skill: finding the right reference, extracting the quality you want, and using it to inform rather than copy.",
+      "why": "Professional creative work is built on references. Collect and use them deliberately."
+    },
+    {
+      "number": 10,
+      "title": "Show your work at the uncomfortable stage",
+      "insight": "Most people wait until their work is 'ready' to share it. But feedback at the nearly-finished stage is expensive — changing direction late has high costs. Sharing uncomfortable early work (rough sketches, first drafts, unpolished prototypes) gets feedback when it can still meaningfully shape the work. The discomfort of showing unfinished work is a signal you're sharing at the right time. If it doesn't feel embarrassingly early, it's probably too late.",
+      "why": "If it feels too early to share, that's usually exactly the right time."
+    }
+  ]
+}

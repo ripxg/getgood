@@ -33,6 +33,23 @@ export interface Category {
   bgColor: string;
 }
 
+export interface CategoryTip {
+  number: number;
+  title: string;
+  insight: string;
+  why: string;
+}
+
+export interface CategoryTips {
+  categorySlug: string;
+  category: string;
+  emoji: string;
+  metaTitle: string;
+  metaDescription: string;
+  intro: string;
+  tips: CategoryTip[];
+}
+
 export const CATEGORIES: Category[] = [
   { slug: 'sports-fitness', name: 'Sports & Fitness', emoji: '🏋️', color: 'text-orange-600', bgColor: 'bg-orange-50' },
   { slug: 'food-cooking', name: 'Food & Cooking', emoji: '🍳', color: 'text-yellow-600', bgColor: 'bg-yellow-50' },

@@ -1,0 +1,70 @@
+{
+  "categorySlug": "music",
+  "category": "Music",
+  "emoji": "🎵",
+  "metaTitle": "Top 10 Music Tips That Actually Make a Difference | GetGood",
+  "metaDescription": "Ten non-obvious music insights — from why slow practice is faster learning to how chord tension is just unresolved expectation. What music school teaches that self-taught musicians miss.",
+  "intro": "Most music advice focuses on what to practice. These tips address how your brain actually learns music — and why most practice sessions are far less effective than they could be.",
+  "tips": [
+    {
+      "number": 1,
+      "title": "Slow practice is not easier — it's harder and more effective",
+      "insight": "Playing slowly forces your brain to consciously process each movement rather than running on motor autopilot. When you practice at speed, errors become embedded in the muscle memory. When you practice slowly enough that every note is deliberate and correct, you're building a cleaner neural pathway. The rule of thumb: practice at the speed where you make zero mistakes, then increase tempo by 5% increments. This is how concert pianists learn 40-minute concertos.",
+      "why": "Speed is a byproduct of accuracy, not something you practice separately."
+    },
+    {
+      "number": 2,
+      "title": "Your ears develop faster than your hands — and that's good",
+      "insight": "Ear training and listening develops faster than physical technique. This creates a frustrating gap where you can hear that you're playing badly but can't yet play better. This gap is actually progress — your ears are ahead of your hands, which means your brain has a target to aim for. Musicians who can't hear their mistakes have a worse problem: they don't know what to fix. The frustration of hearing your flaws is a sign you're developing.",
+      "why": "Frustration with your playing is ear development catching up to technique."
+    },
+    {
+      "number": 3,
+      "title": "Chord tension is just unresolved expectation",
+      "insight": "Music creates and releases tension by setting up harmonic expectations and resolving (or deliberately not resolving) them. A dominant 7th chord (G7) creates tension by including an interval that 'wants' to resolve — the tritone between the 3rd and 7th. Resolution to the tonic releases it. Understanding that all emotion in music is expectation manipulation gives you a framework for why music feels the way it does — and how to use it intentionally.",
+      "why": "Once you understand harmonic expectation, you stop memorising chord progressions and start understanding them."
+    },
+    {
+      "number": 4,
+      "title": "Interleaved practice beats blocked practice for long-term retention",
+      "insight": "Blocked practice (practice one thing until you get it, then move on) feels more productive because you see fast short-term improvement. Interleaved practice (rotate between multiple skills in the same session) feels frustrating because progress is slower day-to-day — but retention after a week is dramatically better. The struggle of switching contexts forces deeper processing. Cognitive science has replicated this across motor learning, language, and music.",
+      "why": "If your practice sessions feel easy and productive, they probably aren't producing lasting learning."
+    },
+    {
+      "number": 5,
+      "title": "The metronome reveals problems you didn't know you had",
+      "insight": "Most musicians practice without a metronome and develop rhythmic 'cheats' — unconsciously slowing down on hard passages and speeding up on easy ones. The result sounds expressive but is actually uncontrolled. Practicing with a metronome exposes exactly where technical weaknesses are (the passages where you fall behind the click) and forces evenness. Once you can play perfectly in time, you can make deliberate expressive choices rather than accidental ones.",
+      "why": "You can't make intentional rubato until you can play in strict time."
+    },
+    {
+      "number": 6,
+      "title": "Muscle memory isn't in your muscles — it's in your cerebellum",
+      "insight": "What we call 'muscle memory' is procedural memory stored in the cerebellum and basal ganglia — not the muscles themselves. This means it's incredibly durable (you don't forget how to ride a bike) but also hard to modify once formed. Bad habits that are practiced many times become deeply embedded neural pathways. This is why it's often faster to learn something correctly from scratch than to 'unlearn' a bad habit — you're competing against a well-established pathway.",
+      "why": "Every repetition is either reinforcing the right habit or the wrong one. There's no neutral practice."
+    },
+    {
+      "number": 7,
+      "title": "Tension is the enemy of technique on every instrument",
+      "insight": "Physical tension in the hands, shoulders, jaw, or neck directly limits speed, endurance, and control. Elite performers are distinguished not just by strength but by efficiency — they use the minimum tension necessary for each movement. Injuries like carpal tunnel and tendinitis in musicians are almost always caused by accumulated tension over time. Periodically checking in ('am I gripping too hard? are my shoulders up?') and releasing tension is a core practice habit, not an optional one.",
+      "why": "Pain during playing is a tension problem, not a 'you just need to practice more' problem."
+    },
+    {
+      "number": 8,
+      "title": "Listening is practice",
+      "insight": "Active, analytical listening to recordings of the music you're learning accelerates progress significantly. Your brain builds a sonic template — an internal model of what the piece should sound like — that it then uses to guide motor learning. Musicians who listen extensively before practicing a new piece learn it faster than those who go straight to the instrument. Listening to the performers you admire most is also how style and phrasing get transmitted.",
+      "why": "Your inner ear needs to know where you're going before your hands can take you there."
+    },
+    {
+      "number": 9,
+      "title": "The pentatonic scale is the universal language of improvisation",
+      "insight": "The minor pentatonic scale (5 notes) works over almost any chord progression in almost any genre — blues, rock, jazz, pop, folk. It's the reason why guitar solos across wildly different genres sound 'right'. Learning one pentatonic box pattern and being able to play it confidently unlocks improvisation far faster than learning full major/minor scales. Once you have it, you can make musical statements. Then you expand from there.",
+      "why": "Five notes. One pattern. Works everywhere. Start here."
+    },
+    {
+      "number": 10,
+      "title": "Recording yourself is the fastest feedback loop",
+      "insight": "We hear ourselves differently while playing — proprioceptive feedback, bone conduction, and the distraction of execution all distort self-perception. Recordings reveal what the listener actually hears. Many musicians are shocked by the gap between what they thought they sounded like and the recording. Even low-quality phone recordings provide invaluable feedback. Reviewing recordings and identifying three specific things to fix is one of the highest-leverage practice habits.",
+      "why": "You cannot reliably hear yourself accurately while you're playing. The recording doesn't lie."
+    }
+  ]
+}

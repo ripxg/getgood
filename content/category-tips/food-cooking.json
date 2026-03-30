@@ -1,0 +1,70 @@
+{
+  "categorySlug": "food-cooking",
+  "category": "Food & Cooking",
+  "emoji": "🍳",
+  "metaTitle": "Top 10 Cooking Tips That Actually Make a Difference | GetGood",
+  "metaDescription": "Ten non-obvious cooking insights — from latent heat in pasta water to why salt timing changes everything. What culinary school teaches that home cooks miss.",
+  "intro": "Most cooking advice tells you what to do. These tips explain why — the underlying physics, chemistry, and technique that make the difference between food that's merely cooked and food that's actually good.",
+  "tips": [
+    {
+      "number": 1,
+      "title": "Latent heat is why you should turn off the heat early",
+      "insight": "When you remove a pan from heat, the food keeps cooking — sometimes significantly. Cast iron retains so much heat it can overcook a steak by two degrees after you remove it. Pasta, eggs, and rice all continue cooking from residual heat. 'Carry-over cooking' is why restaurants pull protein off heat early and rest it. Learning to pull food 10-20% before done and let carryover finish it is the single biggest habit that separates good home cooks from great ones.",
+      "why": "Cook to the temperature you want it to reach, not the temperature it's at when you stop."
+    },
+    {
+      "number": 2,
+      "title": "Salt pasta water until it tastes like the sea",
+      "insight": "Most home cooks use a pinch of salt. Professional kitchens use 10g of salt per litre of water — roughly 1 tablespoon. Under-salted pasta water means under-seasoned pasta, full stop. The pasta absorbs water as it cooks; if that water is flat, so is the pasta. You cannot fully rescue under-seasoned pasta by salting after. The rule: pasta water should taste pleasantly salty, not vaguely salty.",
+      "why": "Pasta is the only thing you cook where the cooking liquid is your primary seasoning vehicle."
+    },
+    {
+      "number": 3,
+      "title": "The Maillard reaction only happens when the surface is dry",
+      "insight": "The brown crust on meat, bread, and vegetables — responsible for almost all of the complex, roasted flavour — requires surface temperatures above 140°C (285°F). Water boils at 100°C. If there is any surface moisture, the surface temperature cannot exceed 100°C, so you get steaming, not browning. Pat protein completely dry before searing. Don't crowd the pan (releases moisture). Use a screaming hot pan. These aren't preferences — they're physics.",
+      "why": "Grey, steamed meat is a moisture problem. Fix the moisture, fix the meal."
+    },
+    {
+      "number": 4,
+      "title": "Acid at the end, fat in the middle",
+      "insight": "Acid (lemon juice, vinegar, wine) added during cooking mostly cooks off, leaving only harshness. Added at the end of cooking, it brightens and lifts a dish dramatically — a squeeze of lemon on a finished risotto, a splash of sherry vinegar in a braise. Fat, by contrast, carries fat-soluble flavour compounds and should be used during cooking to infuse. Finishing oil (good olive oil, butter) added at the end adds richness but less flavour than you think.",
+      "why": "When a dish tastes 'flat', the answer is almost always finishing acid, not more salt."
+    },
+    {
+      "number": 5,
+      "title": "Rest meat as long as you cooked it (for thick cuts)",
+      "insight": "During cooking, muscle fibres contract and squeeze moisture toward the centre. Resting allows the fibres to relax and moisture to redistribute throughout. Cut a steak immediately off the pan and moisture floods out onto the board. Rest it 5-10 minutes and the juices stay in the meat. For large roasts, rest 20-30 minutes. The internal temperature also evens out during rest, meaning better doneness top to bottom.",
+      "why": "Resting isn't optional. It's the last stage of cooking."
+    },
+    {
+      "number": 6,
+      "title": "Emulsification is the secret behind every great sauce",
+      "insight": "Most restaurant sauces are emulsions — fat suspended in water (or vice versa) using an emulsifier. Butter stirred into a hot reduction, egg yolk in hollandaise, the starchy pasta water in cacio e pepe. The key technique is temperature control and agitation. Too hot: the emulsion breaks. Too cold: fat doesn't incorporate. The pasta water trick (reserved, starchy, hot) is the most underused tool in home cooking.",
+      "why": "If your sauces are greasy or thin, you have an emulsification problem."
+    },
+    {
+      "number": 7,
+      "title": "Salt draws out moisture — timing changes everything",
+      "insight": "Salt on vegetables like cucumber, zucchini, and eggplant draws out water via osmosis. This is a feature when making pickles or wanting crispier vegetables. It's a bug when you salt them and immediately roast — the released moisture causes steaming. Salt early (30-60 min ahead) and pat dry, or salt right before cooking. The worst approach: salt 5 minutes before, which pulls moisture but doesn't give time for it to reabsorb or dry.",
+      "why": "Salt timing is a technique decision, not just a seasoning decision."
+    },
+    {
+      "number": 8,
+      "title": "Umami multiplies flavour without adding more of anything",
+      "insight": "Umami (glutamates) doesn't taste like anything on its own — it amplifies other flavours and adds depth. Anchovy paste dissolved in a braise, parmesan rind simmered in a soup, a teaspoon of miso in a salad dressing — none of these make the dish taste 'fishy' or 'cheesy'. They make everything else taste more like itself. The glutamates in these ingredients synergise with inosinate in meat to create a flavour multiplier effect.",
+      "why": "When a dish tastes 'one-dimensional', you likely need umami, not more salt."
+    },
+    {
+      "number": 9,
+      "title": "Your oven is almost certainly lying to you",
+      "insight": "Consumer ovens can be off by 25-50°F (15-28°C) from their dial setting, and they cycle on and off to maintain temperature rather than holding steady. This means 'bake at 350°F' is a rough approximation. An oven thermometer (under $10) is one of the highest ROI kitchen purchases. Baking failures are disproportionately caused by oven temperature inaccuracy — what you think is a recipe problem is usually a thermometer problem.",
+      "why": "The most reliable upgrade to your baking is knowing your actual oven temperature."
+    },
+    {
+      "number": 10,
+      "title": "Fat is a flavour carrier, not just a cooking medium",
+      "insight": "Flavour compounds in herbs, spices, and aromatics are largely fat-soluble — they dissolve in fat and distribute through the dish. Blooming spices in oil (not water) releases significantly more flavour. Cooking garlic and onions in butter or oil infuses the fat with flavour that then carries through the entire dish. This is why restaurant food tastes different: more fat, used earlier in the cooking process to carry more flavour.",
+      "why": "Where you add fat in the cooking sequence determines how the flavour distributes."
+    }
+  ]
+}

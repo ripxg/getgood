@@ -1,0 +1,70 @@
+{
+  "categorySlug": "sports-fitness",
+  "category": "Sports & Fitness",
+  "emoji": "🏋️",
+  "metaTitle": "Top 10 Sports & Fitness Tips That Actually Make a Difference | GetGood",
+  "metaDescription": "Ten non-obvious fitness insights — from how fatigue is mostly neurological to why your warm-up is costing you strength. Research-backed, immediately applicable.",
+  "intro": "Most fitness advice recycles the same five things. These ten insights come from sports science research and elite coaching — the kind of knowledge that separates people who plateau from people who keep improving.",
+  "tips": [
+    {
+      "number": 1,
+      "title": "Fatigue is mostly in your brain, not your muscles",
+      "insight": "The 'central governor theory' (Tim Noakes, UCT) shows that your brain begins throttling effort well before your muscles actually fail — as a protective mechanism. This means the burning, exhausted feeling at 80% effort is largely neurological. Training in hot conditions, altitude, or discomfort expands your perceived limit. When you push through discomfort in training, you're partly teaching your nervous system a new ceiling.",
+      "why": "Understanding this shifts your relationship with effort. The wall isn't the end — it's the first warning."
+    },
+    {
+      "number": 2,
+      "title": "Strength gains in the first 8 weeks are almost entirely neural",
+      "insight": "When you start lifting, the initial strength increases you see aren't from bigger muscles — your muscles barely change in 8 weeks. What changes is your nervous system's ability to recruit muscle fibres and coordinate movement. This is why technique matters most early: you're literally programming your motor patterns. Bad form becomes hardwired. Good form compounds.",
+      "why": "Train movements, not muscles. The quality of your early reps determines your ceiling."
+    },
+    {
+      "number": 3,
+      "title": "Zone 2 cardio is the most under-used fitness tool",
+      "insight": "Zone 2 — conversational pace, where you can speak in full sentences — builds mitochondrial density (literally more energy-producing organelles in your cells) and improves fat oxidation. Elite endurance athletes do 80% of their training in Zone 2. Most recreational athletes do almost none, spending all their time in Zone 3 ('junk miles') which is hard enough to fatigue you but not hard enough to produce elite adaptations.",
+      "why": "If you can't hold a conversation while running, you're probably going too fast for the adaptation you want."
+    },
+    {
+      "number": 4,
+      "title": "Your warm-up is probably sabotaging your strength",
+      "insight": "Static stretching before strength training (holding a stretch for 30+ seconds) has been consistently shown to reduce force production by 5-8% in the subsequent workout. The mechanism: prolonged static stretch reduces the muscle's ability to store and release elastic energy. Pre-workout mobility should be dynamic — leg swings, arm circles, movement prep — not passive holds. Save static stretching for after.",
+      "why": "Stretch after. Move before."
+    },
+    {
+      "number": 5,
+      "title": "Sleep is a stronger performance variable than training",
+      "insight": "A Stanford study on basketball players showed that extending sleep to 10 hours improved sprint times, shooting accuracy, and reaction time more than any training intervention. Conversely, 6 hours of sleep for two weeks produces cognitive and physical impairment equivalent to 24 hours of total sleep deprivation — and most people don't notice because the impairment affects self-assessment first. You can't out-train bad sleep.",
+      "why": "If you're optimising training hours but not sleep hours, you have the priorities backwards."
+    },
+    {
+      "number": 6,
+      "title": "Muscle soreness is not a measure of workout effectiveness",
+      "insight": "DOMS (delayed onset muscle soreness) is caused by eccentric muscle damage and the inflammatory response — not by the metabolic stimulus that drives muscle growth. You can have an extremely effective workout with zero soreness, and a very damaging workout that causes soreness without meaningful adaptation. Chasing soreness as a proxy for effectiveness leads to overtraining and junk volume.",
+      "why": "The goal is progressive overload, not maximum damage."
+    },
+    {
+      "number": 7,
+      "title": "The minimum effective dose of strength training is surprisingly small",
+      "insight": "Research by Brad Schoenfeld and others shows that as few as 3-5 sets per muscle group per week can maintain or even build strength and muscle, provided intensity is high (close to failure). One hard set done well outperforms three easy sets. Most people do far more volume than needed — and the excess often impedes recovery without adding adaptation. More is not more.",
+      "why": "Frequency and intensity beat volume when time is limited."
+    },
+    {
+      "number": 8,
+      "title": "Breathing mechanics directly limit athletic performance",
+      "insight": "Most people are chest breathers. Diaphragmatic (belly) breathing allows greater tidal volume, reduces accessory muscle fatigue, and keeps the core more stable under load. In combat sports and strength training, improper breathing under load is a primary cause of both performance loss and injury. Box breathing (4s in, 4s hold, 4s out, 4s hold) trains diaphragm control and also directly reduces cortisol.",
+      "why": "Learning to breathe properly is a free performance upgrade most athletes never take."
+    },
+    {
+      "number": 9,
+      "title": "Cold exposure after strength training blunts adaptation",
+      "insight": "Ice baths and cold showers are excellent for recovery from endurance training. But cold exposure immediately after strength training has been shown to reduce hypertrophy and strength gains by blunting the inflammatory response that signals muscle adaptation. The inflammation isn't just damage — it's the trigger for adaptation. For strength athletes: save cold exposure for rest days or 4+ hours post-training.",
+      "why": "Cold therapy is context-dependent. Timing matters as much as the tool."
+    },
+    {
+      "number": 10,
+      "title": "Grip strength is one of the best predictors of longevity",
+      "insight": "Multiple large studies (including a 139,000-person study in The Lancet) show grip strength predicts cardiovascular mortality, cognitive decline, and all-cause mortality better than blood pressure. It's a proxy for overall musculoskeletal health, connective tissue integrity, and lean mass. Training grip — dead hangs, farmer carries, towel pull-ups — is not just for climbers. It's underrated preventive medicine.",
+      "why": "If you want one simple metric to track as a proxy for health, measure grip strength."
+    }
+  ]
+}

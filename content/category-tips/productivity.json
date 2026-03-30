@@ -1,0 +1,70 @@
+{
+  "categorySlug": "productivity",
+  "category": "Productivity",
+  "emoji": "⚡",
+  "metaTitle": "Top 10 Productivity Tips That Actually Make a Difference | GetGood",
+  "metaDescription": "Ten non-obvious productivity insights — from why motivation follows action (not the other way around) to how your best thinking happens in the shower for a reason.",
+  "intro": "Most productivity advice is surface-level habit stacking. These insights go deeper — into the neuroscience of motivation, the psychology of decision-making, and the structural changes that actually produce sustained output.",
+  "tips": [
+    {
+      "number": 1,
+      "title": "Motivation follows action — not the other way around",
+      "insight": "The common model is: feel motivated → take action. Research on behavioral activation therapy and the 'action-motivation loop' shows this is backwards. Action produces motivation. Starting a task (even for 2 minutes) generates momentum and dopaminergic feedback that makes continuing easier. Waiting to feel motivated before starting is the primary cause of chronic procrastination. The fix: lower the activation energy to starting, not the task itself.",
+      "why": "Don't wait to feel like doing it. Start, and the feeling will follow."
+    },
+    {
+      "number": 2,
+      "title": "Decision fatigue is real — your willpower budget runs out",
+      "insight": "A famous study on Israeli parole judges showed that early morning decisions resulted in ~65% parole approvals versus ~15% before lunch — after many consecutive decisions. Decision fatigue means that willpower and decision quality degrade with use. The implication: make your most important decisions (creative work, strategic choices) early in the day or after a break. Automate routine decisions (meals, clothing, schedules) to preserve cognitive resources for what matters.",
+      "why": "Protect your cognitive budget. Every small decision costs the same as a big one."
+    },
+    {
+      "number": 3,
+      "title": "The two-minute rule prevents the largest category of procrastination",
+      "insight": "David Allen's GTD insight: if a task takes less than two minutes, do it immediately rather than scheduling it. The overhead of capturing, organising, and later retrieving a two-minute task consistently exceeds the time to just do it. More importantly, deferred small tasks accumulate into a psychological weight (open loops) that consumes background cognitive energy. Clearing them immediately reduces mental load disproportionately to the time spent.",
+      "why": "Small deferred tasks cost more in mental overhead than the tasks themselves."
+    },
+    {
+      "number": 4,
+      "title": "Your best thinking happens in the shower because of diffuse mode",
+      "insight": "Neuroscience identifies two modes of thinking: focused (deliberate, concentrated) and diffuse (relaxed, associative). Insight and creative problem-solving happen in diffuse mode — which is why solutions arrive in the shower, on a walk, or just before sleep. You cannot force diffuse mode; you can only create conditions for it. Deliberately stepping away from stuck problems and doing something physical or routine (shower, walk, chores) is not procrastination — it's a thinking strategy.",
+      "why": "When you're stuck, stopping is often the most productive thing you can do."
+    },
+    {
+      "number": 5,
+      "title": "Time blocking beats task lists for getting important work done",
+      "insight": "To-do lists are a catalogue of intentions. Time blocks are commitments. Research on implementation intentions (Gollwitzer) shows that deciding when, where, and how you'll do a task (not just what) dramatically increases follow-through. A task that's scheduled on your calendar with a specific time and location has a completion rate roughly 3x higher than a task on a list. The calendar is your most honest representation of what you actually intend to do.",
+      "why": "If it's not on the calendar, it probably won't happen."
+    },
+    {
+      "number": 6,
+      "title": "The planning fallacy means every project will take longer than you think",
+      "insight": "Kahneman and Tversky's planning fallacy: people consistently underestimate completion time for tasks, even when they know they've underestimated before. The cause is dual: we focus on the best-case scenario and ignore base rates (how long similar tasks actually took). The correction: multiply your estimate by 1.5-2x, or use reference class forecasting — look up how long similar projects actually took. The planning fallacy affects everyone, including people who know about the planning fallacy.",
+      "why": "Your estimate is optimistic by construction. Build in a buffer and don't feel bad about it."
+    },
+    {
+      "number": 7,
+      "title": "Energy management matters more than time management",
+      "insight": "Tony Schwartz and Jim Loehr's research shows that the constraint on productive output is not time (we all have the same 24 hours) but energy — physical, emotional, mental, and spiritual. An hour of focused work at high energy produces more than three hours of distracted work at low energy. Managing your energy (sleep, exercise, recovery, nutrition, emotional regulation) is a higher-leverage intervention than scheduling optimisation.",
+      "why": "Optimising your schedule while ignoring your energy is rearranging deck chairs."
+    },
+    {
+      "number": 8,
+      "title": "Single-tasking outperforms multitasking for every knowledge work task",
+      "insight": "The brain does not multitask — it rapidly switches between tasks, incurring a 'switching cost' each time. Studies at Stanford found that heavy multitaskers actually performed worse than light multitaskers on attention, memory, and task-switching tests. The irony: multitasking makes you worse at the skills you need to multitask. For any cognitively demanding work, single-tasking with full attention consistently outperforms multitasking. This is not contested in cognitive science.",
+      "why": "Multitasking is a myth. You're just switching fast and paying a cost each time."
+    },
+    {
+      "number": 9,
+      "title": "Done is better than perfect — but only for the right things",
+      "insight": "Perfectionism is productive in domains with hard quality standards (surgery, structural engineering, code running critical infrastructure). It's destructive in domains where iteration speed and feedback loops matter more than initial quality (most creative work, most communication, most business decisions). The skill is accurately categorising which domain you're in. Most knowledge workers apply surgical perfectionism to email and shipping-grade standards to actual products.",
+      "why": "Ask: does this task require perfection, or does it require completion? Most tasks require completion."
+    },
+    {
+      "number": 10,
+      "title": "Weekly reviews compound your long-term output more than daily habits",
+      "insight": "Daily habits optimise execution. Weekly reviews optimise direction. A 30-minute weekly review (what did I complete? what's carrying over? what should I stop doing? what's the priority for next week?) catches misaligned effort, clears open loops, and recalibrates priorities before a week of misaligned work is sunk. Most people who underperform chronically are working hard in the wrong direction — a weekly review is the navigation check.",
+      "why": "It doesn't matter how fast you're moving if you're going the wrong way."
+    }
+  ]
+}

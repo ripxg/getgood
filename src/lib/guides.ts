@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { Guide, Category, CATEGORIES } from '@/types/guide';
+import { Guide, Category, CATEGORIES, CategoryTips } from '@/types/guide';
 
 const guidesDir = path.join(process.cwd(), 'content', 'guides');
 
@@ -29,4 +29,12 @@ export function getCategories(): Category[] {
 
 export function getCategoryBySlug(slug: string): Category | undefined {
   return CATEGORIES.find((c) => c.slug === slug);
+}
+
+const categoryTipsDir = path.join(process.cwd(), 'content', 'category-tips');
+
+export function getCategoryTips(categorySlug: string): CategoryTips | undefined {
+  const filePath = path.join(categoryTipsDir, `${categorySlug}.json`);
+  if (!fs.existsSync(filePath)) return undefined;
+  return JSON.parse(fs.readFileSync(filePath, 'utf-8')) as CategoryTips;
 }
