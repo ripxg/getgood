@@ -25,15 +25,15 @@ export default function HomePage({ guides }: HomePageProps) {
   return (
     <main className="relative">
       {/* Hero Section - Editorial Magazine Style */}
-      <section className="min-h-[90vh] flex flex-col justify-center px-6 lg:px-8 py-20 relative overflow-hidden">
+      <section className="min-h-[90vh] flex flex-col justify-center px-6 lg:px-8 py-20 relative">
         {/* Giant "10" Background Element */}
-        <div className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-1/4 select-none pointer-events-none">
+        <div className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-1/4 select-none pointer-events-none overflow-hidden">
           <span className="text-[40vw] md:text-[35vw] font-bold text-[#E5E2DD]/50 leading-none tracking-tighter">
             10
           </span>
         </div>
         
-        <div className="max-w-7xl mx-auto w-full relative z-10">
+        <div className="max-w-7xl mx-auto w-full relative" style={{ zIndex: 10 }}>
           <div className="max-w-3xl">
             {/* Eyebrow */}
             <div className="animate-on-load animate-fade-in-up">
@@ -66,21 +66,7 @@ export default function HomePage({ guides }: HomePageProps) {
               <SearchBar guides={guides} placeholder={t.hero.searchPlaceholder} />
             </div>
 
-            {/* Quick Stats */}
-            <div className="animate-on-load animate-fade-in-up delay-400 flex flex-wrap gap-8 mt-12 text-sm">
-              <div className="flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-[#CCFF00]"></span>
-                <span className="text-[#6B6B6B]">{guides.length}+ {t.hero.guides}</span>
-              </div>
-              <div className="flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-[#CCFF00]"></span>
-                <span className="text-[#6B6B6B]">{CATEGORIES.length} {t.hero.categories}</span>
-              </div>
-              <div className="flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-[#CCFF00]"></span>
-                <span className="text-[#6B6B6B]">{t.hero.humanAi}</span>
-              </div>
-            </div>
+
           </div>
         </div>
 
