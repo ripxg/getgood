@@ -3,6 +3,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { getCategories, getCategoryBySlug, getGuidesByCategory, getCategoryTips } from '@/lib/guides';
 import GuideCard from '@/components/GuideCard';
+import ViewToggle from '@/components/ViewToggle';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -88,6 +89,7 @@ export default async function CategoryPage({ params }: Props) {
               <p className="text-sm text-[#8B8B8B] font-medium tracking-wide uppercase">
                 10 insights · curated for depth
               </p>
+              <ViewToggle />
             </>
           )}
         </header>
@@ -151,7 +153,7 @@ export default async function CategoryPage({ params }: Props) {
         )}
 
         {/* Go Deeper Section */}
-        <section className="pt-8 border-t border-[#E5E2DD]">
+        <section id="go-deeper" className="pt-8 border-t border-[#E5E2DD] scroll-mt-20">
           <header className="mb-10 text-center">
             <h2 className="text-3xl md:text-4xl font-bold text-[#0a0a0a] tracking-tight mb-3">
               Go Deeper
