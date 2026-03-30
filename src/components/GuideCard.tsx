@@ -1,6 +1,9 @@
+'use client';
+
 import Link from 'next/link';
 import { Guide } from '@/types/guide';
 import { CATEGORIES } from '@/types/guide';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 interface GuideCardProps {
   guide: Guide;
@@ -8,6 +11,7 @@ interface GuideCardProps {
 
 export default function GuideCard({ guide }: GuideCardProps) {
   const cat = CATEGORIES.find((c) => c.slug === guide.categorySlug);
+  const { t } = useLanguage();
 
   return (
     <Link 
@@ -22,7 +26,7 @@ export default function GuideCard({ guide }: GuideCardProps) {
             <span>{guide.category}</span>
           </span>
           <span className="text-xs font-medium text-[#CCFF00] bg-[#0a0a0a] px-2.5 py-1 rounded-full">
-            10 steps
+            10 {t.guideCard.steps}
           </span>
         </div>
 
@@ -41,13 +45,13 @@ export default function GuideCard({ guide }: GuideCardProps) {
           <div className="flex items-center gap-2">
             <span className="w-1.5 h-1.5 rounded-full bg-[#CCFF00]"></span>
             <span className="text-xs font-medium text-[#6B6B6B]">
-              Notice: <span className="text-[#0a0a0a]">{guide.timeToNotice}</span>
+              {t.guideCard.readingTime}: <span className="text-[#0a0a0a]">{guide.timeToNotice}</span>
             </span>
           </div>
           <div className="flex items-center gap-2">
             <span className="w-1.5 h-1.5 rounded-full bg-[#0a0a0a]"></span>
             <span className="text-xs font-medium text-[#6B6B6B]">
-              Achieve: <span className="text-[#0a0a0a]">{guide.timeToAchieve}</span>
+              {t.guideCard.achieveIn}: <span className="text-[#0a0a0a]">{guide.timeToAchieve}</span>
             </span>
           </div>
         </div>

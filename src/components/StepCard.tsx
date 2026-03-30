@@ -1,3 +1,5 @@
+'use client';
+
 import { GuideStep } from '@/types/guide';
 
 interface StepCardProps {

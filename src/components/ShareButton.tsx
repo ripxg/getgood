@@ -1,9 +1,11 @@
 'use client';
 
 import { useState } from 'react';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 export default function ShareButton() {
   const [copied, setCopied] = useState(false);
+  const { t } = useLanguage();
 
   const handleShare = async () => {
     try {
@@ -17,7 +19,7 @@ export default function ShareButton() {
         setCopied(true);
         setTimeout(() => setCopied(false), 2000);
       }
-    } catch (err) {
+    } catch {
       // User cancelled or error
     }
   };
@@ -30,12 +32,12 @@ export default function ShareButton() {
       {copied ? (
         <>
           <span className="text-[#CCFF00]">✓</span>
-          <span>Link copied!</span>
+          <span>{t.guidePage.linkCopied}</span>
         </>
       ) : (
         <>
           <span>📤</span>
-          <span>Share guide</span>
+          <span>{t.guidePage.shareGuide}</span>
         </>
       )}
     </button>

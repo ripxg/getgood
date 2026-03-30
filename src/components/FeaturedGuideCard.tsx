@@ -1,6 +1,9 @@
+'use client';
+
 import Link from 'next/link';
 import { Guide } from '@/types/guide';
 import { CATEGORIES } from '@/types/guide';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 interface FeaturedGuideCardProps {
   guide: Guide;
@@ -9,6 +12,7 @@ interface FeaturedGuideCardProps {
 
 export default function FeaturedGuideCard({ guide, index }: FeaturedGuideCardProps) {
   const cat = CATEGORIES.find((c) => c.slug === guide.categorySlug);
+  const { t } = useLanguage();
 
   return (
     <Link 
@@ -33,7 +37,7 @@ export default function FeaturedGuideCard({ guide, index }: FeaturedGuideCardPro
                 <span>{guide.category}</span>
               </span>
               <span className="text-xs font-medium text-[#6B6B6B]">
-                10 steps
+                10 {t.guideCard.steps}
               </span>
             </div>
 
@@ -54,20 +58,20 @@ export default function FeaturedGuideCard({ guide, index }: FeaturedGuideCardPro
               <div className="flex items-center gap-2">
                 <span className="w-2 h-2 rounded-full bg-[#CCFF00]"></span>
                 <span className="text-sm text-[#6B6B6B]">
-                  Notice in <span className="font-medium text-[#0a0a0a]">{guide.timeToNotice}</span>
+                  {t.guideCard.readingTime} <span className="font-medium text-[#0a0a0a]">{guide.timeToNotice}</span>
                 </span>
               </div>
               <div className="flex items-center gap-2">
                 <span className="w-2 h-2 rounded-full bg-[#0a0a0a]"></span>
                 <span className="text-sm text-[#6B6B6B]">
-                  Achieve in <span className="font-medium text-[#0a0a0a]">{guide.timeToAchieve}</span>
+                  {t.guidePage.achieveIn} <span className="font-medium text-[#0a0a0a]">{guide.timeToAchieve}</span>
                 </span>
               </div>
             </div>
 
             {/* Arrow CTA */}
             <span className="inline-flex items-center gap-2 text-sm font-semibold text-[#0a0a0a] group-hover:gap-3 transition-all">
-              Start Guide
+              {t.guidePage.startGuide}
               <span className="w-8 h-8 rounded-full bg-[#CCFF00] flex items-center justify-center group-hover:bg-[#0a0a0a] group-hover:text-[#CCFF00] transition-colors">
                 →
               </span>
