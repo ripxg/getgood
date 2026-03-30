@@ -1,5 +1,6 @@
 'use client';
 
+import { useMemo } from 'react';
 import { Guide } from '@/types/guide';
 import { CATEGORIES } from '@/types/guide';
 import GuideCard from '@/components/GuideCard';
@@ -14,7 +15,12 @@ interface HomePageProps {
 
 export default function HomePage({ guides }: HomePageProps) {
   const { t } = useLanguage();
-  const featured = guides.slice(0, 3);
+
+  // Pick 3 random guides on each page load, stable for the session
+  const featured = useMemo(() => {
+    const shuffled = [...guides].sort(() => Math.random() - 0.5);
+    return shuffled.slice(0, 3);
+  }, [guides]);
 
   return (
     <main className="relative">
@@ -89,15 +95,15 @@ export default function HomePage({ guides }: HomePageProps) {
         </div>
       </section>
 
-      {/* Featured Guides - Horizontal Layout */}
-      <section className="max-w-7xl mx-auto px-6 lg:px-8 py-20">
+      {/* Random Guides - Horizontal Layout */}
+      <section id="featured" className="max-w-7xl mx-auto px-6 lg:px-8 py-20 scroll-mt-20">
         <div className="flex items-end justify-between mb-10">
           <div>
             <span className="text-sm font-medium tracking-widest uppercase text-[#CCFF00] bg-[#0a0a0a] px-3 py-1 rounded-full">
-              {t.sections.featured}
+              ✦ Random
             </span>
             <h2 className="text-3xl md:text-4xl font-bold tracking-tight mt-4">
-              {t.sections.startHere}
+              Discover Something New
             </h2>
           </div>
           <a href="#all-guides" className="hidden sm:flex items-center gap-2 text-sm font-medium text-[#6B6B6B] hover:text-[#0a0a0a] transition-colors group">
@@ -114,7 +120,7 @@ export default function HomePage({ guides }: HomePageProps) {
       </section>
 
       {/* Categories */}
-      <section className="max-w-7xl mx-auto px-6 lg:px-8 py-20 border-t border-[#E5E2DD]">
+      <section id="categories" className="max-w-7xl mx-auto px-6 lg:px-8 py-20 border-t border-[#E5E2DD] scroll-mt-20">
         <div className="flex items-end justify-between mb-10">
           <div>
             <span className="text-sm font-medium tracking-widest uppercase text-[#6B6B6B]">
@@ -129,7 +135,7 @@ export default function HomePage({ guides }: HomePageProps) {
       </section>
 
       {/* All Guides Grid */}
-      <section id="all-guides" className="max-w-7xl mx-auto px-6 lg:px-8 py-20 border-t border-[#E5E2DD]">
+      <section id="all-guides" className="max-w-7xl mx-auto px-6 lg:px-8 py-20 border-t border-[#E5E2DD] scroll-mt-20">
         <div className="flex items-end justify-between mb-10">
           <div>
             <span className="text-sm font-medium tracking-widest uppercase text-[#6B6B6B]">

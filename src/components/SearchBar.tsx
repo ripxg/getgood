@@ -76,7 +76,7 @@ export default function SearchBar({
       </div>
 
       {open && results.length > 0 && (
-        <div className="absolute z-50 w-full mt-3 bg-white rounded-2xl border border-[#E5E2DD] shadow-2xl overflow-hidden">
+        <div className="absolute z-[100] w-full mt-3 bg-white rounded-2xl border border-[#E5E2DD] shadow-2xl overflow-hidden">
           <div className="py-2">
             {results.map((guide) => {
               const cat = CATEGORIES.find((c) => c.slug === guide.categorySlug);

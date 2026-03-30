@@ -2,19 +2,30 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import LanguageSelector from './LanguageSelector';
 import { useLanguage } from '@/contexts/LanguageContext';
 
 export default function Nav() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const { t } = useLanguage();
+  const pathname = usePathname();
+  const isHomepage = pathname === '/';
 
   const navLinks = [
-    { href: '/category/sports-fitness', label: t.nav.fitness },
-    { href: '/category/food-cooking', label: t.nav.cooking },
-    { href: '/category/tech-tools', label: t.nav.tech },
-    { href: '/category/creative', label: t.nav.creative },
+    { id: 'featured', label: t.sections?.featured || 'Featured' },
+    { id: 'categories', label: t.sections?.browseByCategory ? 'Categories' : 'Categories' },
+    { id: 'all-guides', label: t.sections?.allGuides || 'All Guides' },
   ];
+
+  const handleNavClick = (e: React.MouseEvent<HTMLAnchorElement>, id: string) => {
+    if (isHomepage) {
+      e.preventDefault();
+      document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' });
+      setMobileMenuOpen(false);
+    }
+    // If not on homepage, let the default href behavior work (navigate to /#id)
+  };
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-[#FAF8F5]/80 backdrop-blur-md border-b border-[#E5E2DD]">
@@ -28,13 +39,14 @@ export default function Nav() {
         {/* Desktop Navigation */}
         <nav className="hidden sm:flex items-center gap-8 text-sm font-medium tracking-wide">
           {navLinks.map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              className="text-[#6B6B6B] hover:text-[#0a0a0a] transition-colors duration-200"
+            <a
+              key={link.id}
+              href={isHomepage ? `#${link.id}` : `/#${link.id}`}
+              onClick={(e) => handleNavClick(e, link.id)}
+              className="text-[#6B6B6B] hover:text-[#0a0a0a] transition-colors duration-200 cursor-pointer"
             >
               {link.label}
-            </Link>
+            </a>
           ))}
         </nav>
 
@@ -76,14 +88,17 @@ export default function Nav() {
       >
         <nav className="bg-white border-t border-[#E5E2DD] px-6 py-4">
           {navLinks.map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              onClick={() => setMobileMenuOpen(false)}
-              className="block py-3 text-base font-medium text-[#6B6B6B] hover:text-[#0a0a0a] transition-colors border-b border-[#E5E2DD] last:border-0"
+            <a
+              key={link.id}
+              href={isHomepage ? `#${link.id}` : `/#${link.id}`}
+              onClick={(e) => {
+                handleNavClick(e, link.id);
+                setMobileMenuOpen(false);
+              }}
+              className="block py-3 text-base font-medium text-[#6B6B6B] hover:text-[#0a0a0a] transition-colors border-b border-[#E5E2DD] last:border-0 cursor-pointer"
             >
               {link.label}
-            </Link>
+            </a>
           ))}
         </nav>
       </div>
