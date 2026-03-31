@@ -64,7 +64,7 @@ export default function FeaturedGuideCard({ guide, index }: FeaturedGuideCardPro
               <div className="flex items-center gap-2">
                 <span className="w-2 h-2 rounded-full bg-[#0a0a0a]"></span>
                 <span className="text-sm text-[#6B6B6B]">
-                  {t.guidePage.achieveIn} <span className="font-medium text-[#0a0a0a]">1 day</span>
+                  {t.guidePage.achieveIn} <span className="font-medium text-[#0a0a0a]">{guide.timeToAchieve}</span>
                 </span>
               </div>
             </div>
