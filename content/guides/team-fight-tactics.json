@@ -1,0 +1,83 @@
+{
+  "slug": "team-fight-tactics",
+  "title": "How to Win at Team Fight Tactics",
+  "category": "Games & Strategy",
+  "categorySlug": "games-strategy",
+  "description": "TFT looks overwhelming at first — 60+ champions, dozens of traits, and everyone building differently. These fundamentals will get you top 4 consistently.",
+  "timeToNotice": "45 seconds",
+  "timeToAchieve": "2 weeks",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Learn econ thresholds: 10, 20, 30, 40, 50 gold",
+      "instruction": "You earn bonus interest gold at each 10-gold threshold, up to +5 at 50 gold. This means 50 gold earns you 5 extra gold per round. Never break below a threshold unless you're about to lose or it's a crucial power spike.",
+      "tip": "Going from 51 to 49 gold costs you nothing. Going from 50 to 49 costs you 1 gold per round for the rest of the game.",
+      "media": null
+    },
+    {
+      "number": 2,
+      "title": "Play strongest board, not your dream comp",
+      "instruction": "Put in whatever upgraded units you hit, regardless of traits. A 2-star unit with no synergy beats a 1-star unit with perfect synergies. You can pivot later when you find the right pieces.",
+      "tip": "Beginners lose health chasing a comp they saw on YouTube. Strong players adapt to what the shop gives them.",
+      "media": null
+    },
+    {
+      "number": 3,
+      "title": "Understand when to level vs when to roll",
+      "instruction": "Level to get access to higher-cost units and more board slots. Roll to find upgrades and 2-star your current units. Early game: level. Mid game: stabilize with rolls if low HP. Late game: level to 8-9, then roll.",
+      "tip": "Standard tempo: Level 4 at 2-1, Level 5 at 2-5, Level 6 at 3-2, Level 7 at 4-1, Level 8 at 5-1.",
+      "media": null
+    },
+    {
+      "number": 4,
+      "title": "Position your carry in a back corner",
+      "instruction": "Your main damage dealer should be in a corner of the back row, usually bottom-left or bottom-right. This maximizes the distance assassins and divers have to travel, giving your carry more time to deal damage.",
+      "tip": "Scout opponents (press 1-8 keys) and swap corners if someone is positioning assassins to jump your carry.",
+      "media": null
+    },
+    {
+      "number": 5,
+      "title": "Put your tank on the opposite side from your carry",
+      "instruction": "Your frontline should draw aggro away from your backline. If your carry is bottom-right, put your main tank in the front-left. This splits enemy attention and protects your damage dealer.",
+      "tip": "Items like Sunfire Cape and Warmog's go on tanks who will stay alive longest.",
+      "media": null
+    },
+    {
+      "number": 6,
+      "title": "Slam items early to win-streak",
+      "instruction": "Holding components for 'perfect' items loses you rounds. Slamming decent items early preserves HP and often generates more gold through win-streaks than you'd save by waiting. Remake later if needed.",
+      "tip": "Any completed item is better than two components sitting on your bench.",
+      "media": null
+    },
+    {
+      "number": 7,
+      "title": "Know your one-cost roll-down at level 7",
+      "instruction": "If you're playing a reroll comp (units you want to 3-star), stay at a lower level and roll. 1-cost reroll comps stabilize at level 7. 2-cost reroll comps stabilize at level 6-7. Don't level past this until you hit your 3-stars.",
+      "tip": "Reroll comps are beginner-friendly because the game plan is simple: roll until you hit, then stabilize.",
+      "media": null
+    },
+    {
+      "number": 8,
+      "title": "Scout the lobby to avoid contested comps",
+      "instruction": "Press the number keys (1-8) to see other boards. If three people are building the same comp, your odds of hitting are terrible. Pivot to something else or commit only if you're already ahead on upgrades.",
+      "tip": "Being the only person running a comp means the entire champion pool is yours.",
+      "media": null
+    },
+    {
+      "number": 9,
+      "title": "Play for top 4, not for first",
+      "instruction": "TFT ranked rewards consistency. A top 4 gains LP; bottom 4 loses it. When you're low HP, play to survive: roll for any upgrade, slam defensive items, and stabilize. First place is a bonus, not the goal.",
+      "tip": "The difference between 4th and 5th is massive. The difference between 1st and 4th is small in ranked.",
+      "media": null
+    },
+    {
+      "number": 10,
+      "title": "Watch one streamer and copy their decisions",
+      "instruction": "Pick a high-elo TFT streamer and watch how they play the first 10 rounds. Copy their econ timing, level timing, and item slams exactly. You'll learn faster by imitation than by reading tier lists.",
+      "tip": "Recommended: Bebe872, Dishsoap, or MismatchedSocks for educational commentary.",
+      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/8bYVy-Snc7s", "caption": "TFT fundamentals for beginners" }
+    }
+  ],
+  "tags": ["tft", "teamfight tactics", "league of legends", "auto battler", "strategy", "gaming"],
+  "sources": ["https://tactics.tools/", "https://tftactics.gg/", "https://lolchess.gg/"]
+}
