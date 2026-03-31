@@ -45,13 +45,13 @@ export default function GuideCard({ guide }: GuideCardProps) {
           <div className="flex items-center gap-2">
             <span className="w-1.5 h-1.5 rounded-full bg-[#CCFF00]"></span>
             <span className="text-xs font-medium text-[#6B6B6B]">
-              {t.guideCard.readingTime}: <span className="text-[#0a0a0a]">{guide.timeToNotice}</span>
+              {t.guideCard.readingTime}: <span className="text-[#0a0a0a]">45 seconds</span>
             </span>
           </div>
           <div className="flex items-center gap-2">
             <span className="w-1.5 h-1.5 rounded-full bg-[#0a0a0a]"></span>
             <span className="text-xs font-medium text-[#6B6B6B]">
-              {t.guideCard.achieveIn}: <span className="text-[#0a0a0a]">{guide.timeToAchieve}</span>
+              {t.guideCard.achieveIn}: <span className="text-[#0a0a0a]">1 day</span>
             </span>
           </div>
         </div>
