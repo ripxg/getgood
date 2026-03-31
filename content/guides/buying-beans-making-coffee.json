@@ -1,0 +1,83 @@
+{
+  "slug": "buying-beans-making-coffee",
+  "title": "How to Buy Good Beans and Make Great Coffee",
+  "category": "Food & Cooking",
+  "categorySlug": "food-cooking",
+  "description": "Most bad coffee isn't brewed badly — it starts with stale, poorly sourced beans. Learning what to look for when buying and the basics of extraction transforms your morning cup.",
+  "timeToNotice": "45 seconds",
+  "timeToAchieve": "2 weeks",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Buy whole beans, never pre-ground",
+      "instruction": "Coffee loses 60% of its aromatic compounds within 15 minutes of grinding. Pre-ground coffee in a supermarket has been stale for weeks or months. Whole beans stay fresh much longer because the oils and gases are sealed inside. Grind right before you brew.",
+      "tip": "A basic burr grinder costs $30-50 and is the single best upgrade for your coffee.",
+      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/bgjvLQu5NlE", "caption": "Why fresh grinding makes all the difference" }
+    },
+    {
+      "number": 2,
+      "title": "Look for a roast date — not a best-by date",
+      "instruction": "Quality roasters print the exact roast date on the bag. Coffee is at peak flavour 7-21 days after roasting. Supermarket coffee only shows 'best by' dates 6-12 months out, meaning it was roasted months ago and is already stale when you buy it.",
+      "tip": "If there's no roast date on the bag, it's probably not specialty coffee.",
+      "media": null
+    },
+    {
+      "number": 3,
+      "title": "Buy from local roasters or specialty shops",
+      "instruction": "Local roasters turn over inventory weekly. Specialty coffee shops stock beans roasted within the past 2 weeks. Online specialty roasters ship within days of roasting. Supermarket shelves sit for months. Freshness trumps brand.",
+      "tip": "Many roasters offer subscriptions that ship beans right after roasting.",
+      "media": null
+    },
+    {
+      "number": 4,
+      "title": "Start with medium roasts from single origins",
+      "instruction": "Medium roasts balance the bean's origin flavour with roast character. Single origins (one farm or region) let you taste distinct flavour profiles — Ethiopian coffees taste like blueberries, Colombian like chocolate. Blends are designed to taste consistent but less interesting.",
+      "tip": "Ask the roaster what flavour notes to expect — good beans have tasting notes on the bag.",
+      "media": null
+    },
+    {
+      "number": 5,
+      "title": "Use the right coffee-to-water ratio",
+      "instruction": "The standard starting point is 1:15 to 1:17 — that's 1 gram of coffee to 15-17 grams of water. For a 250ml cup, use about 15-17g of coffee. Too little coffee = weak and sour. Too much = bitter and overwhelming. Use a kitchen scale, not a scoop.",
+      "tip": "Once you find your preferred ratio, it works across all brew methods.",
+      "media": null
+    },
+    {
+      "number": 6,
+      "title": "Use water just off the boil — 90-96°C",
+      "instruction": "Boiling water (100°C) extracts too aggressively and burns the coffee. Water below 85°C under-extracts, leaving it sour and thin. Boil your kettle and wait 30-45 seconds, or use a thermometer. The sweet spot is around 93°C.",
+      "tip": "If you don't have a thermometer, 30 seconds off the boil works for most kettles.",
+      "media": null
+    },
+    {
+      "number": 7,
+      "title": "Match your grind size to your brew method",
+      "instruction": "Coarse grind (sea salt texture) for French press — long steep time needs big particles. Medium grind (table salt) for pour-over and drip. Fine grind (flour texture) for espresso — short contact time needs more surface area. Wrong grind = wrong extraction.",
+      "tip": "If coffee tastes sour, grind finer. If it's bitter, grind coarser.",
+      "media": null
+    },
+    {
+      "number": 8,
+      "title": "Bloom your coffee before full extraction",
+      "instruction": "Fresh coffee releases CO2 when hot water hits it — this is called 'blooming'. Pour just enough water to saturate the grounds (about 2x the coffee weight) and wait 30-45 seconds. This lets gas escape so water can extract evenly during the full pour.",
+      "tip": "If your coffee doesn't bubble during blooming, the beans are probably stale.",
+      "media": null
+    },
+    {
+      "number": 9,
+      "title": "Control your total brew time",
+      "instruction": "Pour-over should take 2.5-4 minutes total. French press steeps for 4 minutes before plunging. Espresso extracts in 25-35 seconds. Time is the variable that tells you if your grind is correct — too fast means grind finer, too slow means grind coarser.",
+      "tip": "Use your phone timer every brew until you've dialled in your setup.",
+      "media": null
+    },
+    {
+      "number": 10,
+      "title": "Store beans airtight in a cool, dark place",
+      "instruction": "Light, heat, air, and moisture are the enemies of fresh coffee. Keep beans in an opaque, airtight container at room temperature. Don't refrigerate — condensation ruins them. Don't freeze unless you're storing for over a month, and never re-freeze.",
+      "tip": "Buy only what you'll drink in 2-3 weeks to always have fresh coffee.",
+      "media": null
+    }
+  ],
+  "tags": ["coffee", "beans", "brewing", "pour-over", "french press", "morning routine"],
+  "sources": ["https://www.jameshoffmann.co.uk/", "https://www.seriouseats.com/what-is-the-best-ratio-of-water-to-coffee", "https://counterculturecoffee.com/learn/coffee-basics"]
+}
