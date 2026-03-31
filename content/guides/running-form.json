@@ -3,21 +3,25 @@
   "title": "How to Run With Better Form",
   "category": "Sports & Fitness",
   "categorySlug": "sports-fitness",
-  "description": "Poor running form is why most people get injured and why running feels harder than it should. Fix the mechanics and running becomes easier — and faster.",
+  "description": "Poor running form is why most people get injured and why running feels harder than it should. Fix the mechanics and running becomes easier \u2014 and faster.",
   "timeToNotice": "45 seconds",
   "timeToAchieve": "1 day",
   "steps": [
     {
       "number": 1,
-      "title": "Run tall — imagine a string pulling your head up",
-      "instruction": "Good posture starts at the top. Stand tall with a slight forward lean from your ankles (not your waist). Imagine a string attached to the crown of your head pulling you upward. Most runners slouch — this compresses the lungs and wastes energy.",
+      "title": "Run tall \u2014 imagine a string pulling your head up",
+      "instruction": "Good posture starts at the top. Stand tall with a slight forward lean from your ankles (not your waist). Imagine a string attached to the crown of your head pulling you upward. Most runners slouch \u2014 this compresses the lungs and wastes energy.",
       "tip": "If you're hunching, you're probably tired. Posture cues reset your running economy.",
-      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/brFHyOtTwH4", "caption": "Running form drills and technique" }
+      "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/brFHyOtTwH4",
+        "caption": "What Is Perfect Running Form?"
+      }
     },
     {
       "number": 2,
       "title": "Land under your hips, not in front",
-      "instruction": "Overstriding — landing with your foot well ahead of your center of mass — is the single biggest form mistake. Each overstride acts as a brake. Aim to land with your foot roughly below your hip.",
+      "instruction": "Overstriding \u2014 landing with your foot well ahead of your center of mass \u2014 is the single biggest form mistake. Each overstride acts as a brake. Aim to land with your foot roughly below your hip.",
       "tip": "Shorter, quicker steps naturally fix overstriding.",
       "media": null
     },
@@ -25,20 +29,20 @@
       "number": 3,
       "title": "Aim for 170-180 steps per minute",
       "instruction": "Cadence (steps per minute) is one of the most powerful running metrics. Most beginners run at 150-160. Increasing to 170-180 reduces impact, improves efficiency, and protects your knees. Count your steps for 30 seconds and multiply by 4.",
-      "tip": "Find a 175 BPM playlist on Spotify — your feet will naturally sync to the beat.",
+      "tip": "Find a 175 BPM playlist on Spotify \u2014 your feet will naturally sync to the beat.",
       "media": null
     },
     {
       "number": 4,
       "title": "Keep your arms at 90 degrees, elbows back",
-      "instruction": "Arms should drive straight forward and back — no crossing the midline of your body. Elbows at about 90 degrees, hands loose (imagine holding a potato chip without breaking it). Tight arms mean a tense upper body, which wastes energy.",
-      "tip": "Your arms and legs are connected — faster arm swing = faster legs.",
+      "instruction": "Arms should drive straight forward and back \u2014 no crossing the midline of your body. Elbows at about 90 degrees, hands loose (imagine holding a potato chip without breaking it). Tight arms mean a tense upper body, which wastes energy.",
+      "tip": "Your arms and legs are connected \u2014 faster arm swing = faster legs.",
       "media": null
     },
     {
       "number": 5,
       "title": "Relax your hands and face",
-      "instruction": "Tension travels upward from tight fists to tense shoulders to a stiff torso. Keep your hands loose — imagine you're holding something fragile. Relax your jaw and cheeks too. A relaxed face signals a relaxed body.",
+      "instruction": "Tension travels upward from tight fists to tense shoulders to a stiff torso. Keep your hands loose \u2014 imagine you're holding something fragile. Relax your jaw and cheeks too. A relaxed face signals a relaxed body.",
       "tip": "Periodically check in: 'Am I clenching?' If yes, relax.",
       "media": null
     },
@@ -46,26 +50,26 @@
       "number": 6,
       "title": "Lean slightly forward from the ankles",
       "instruction": "A slight forward lean (from the ankles, not the waist) lets gravity assist your forward momentum. Leaning from the waist collapses your core; leaning from the ankles engages your whole body as a unit.",
-      "tip": "Think of falling forward and catching yourself — that's the lean.",
+      "tip": "Think of falling forward and catching yourself \u2014 that's the lean.",
       "media": null
     },
     {
       "number": 7,
-      "title": "Land softly — quiet feet",
+      "title": "Land softly \u2014 quiet feet",
       "instruction": "If you can hear your feet hitting the pavement, you're absorbing more impact than necessary. Try to run quietly. Soft landing means your muscles are absorbing the shock, not your joints.",
       "tip": "Softer landing is especially important for injury prevention.",
       "media": null
     },
     {
       "number": 8,
-      "title": "Breathe rhythmically — try the 3:2 pattern",
+      "title": "Breathe rhythmically \u2014 try the 3:2 pattern",
       "instruction": "Breathe in for 3 footstrikes, out for 2. This 'odd-even' pattern means you alternate which foot hits on the exhale, preventing the side stitch that plagues runners who exhale on the same foot every time.",
       "tip": "Nasal breathing is better for easy/recovery runs. Mouth breathing is fine for hard efforts.",
       "media": null
     },
     {
       "number": 9,
-      "title": "Strengthen your glutes — they power everything",
+      "title": "Strengthen your glutes \u2014 they power everything",
       "instruction": "Weak glutes are at the root of most running injuries (IT band, knee pain, hip issues). Add 2x weekly glute work: hip thrusts, single-leg deadlifts, clamshells. You'll notice the difference in your form within 2-3 weeks.",
       "tip": "Your glutes should be the engine. Your calves and quads are just transmission.",
       "media": null
@@ -78,6 +82,15 @@
       "media": null
     }
   ],
-  "tags": ["running", "fitness", "form", "technique", "injury prevention"],
-  "sources": ["https://www.runnersworld.com/training/a20851067/running-form-tips/", "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5473370/"]
+  "tags": [
+    "running",
+    "fitness",
+    "form",
+    "technique",
+    "injury prevention"
+  ],
+  "sources": [
+    "https://www.runnersworld.com/training/a20851067/running-form-tips/",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5473370/"
+  ]
 }

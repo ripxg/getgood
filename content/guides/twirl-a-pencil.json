@@ -10,14 +10,18 @@
     {
       "number": 1,
       "title": "Choose Your Weapon",
-      "instruction": "Grab a standard wooden pencil or pen. Ideally something with even weight distribution — avoid pens with heavy caps on one end. A regular #2 pencil is perfect for beginners.",
-      "tip": "Mechanical pencils work great because they're balanced. Avoid short pencils — you need at least 15cm of length.",
-      "media": null
+      "instruction": "Grab a standard wooden pencil or pen. Ideally something with even weight distribution \u2014 avoid pens with heavy caps on one end. A regular #2 pencil is perfect for beginners.",
+      "tip": "Mechanical pencils work great because they're balanced. Avoid short pencils \u2014 you need at least 15cm of length.",
+      "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/4OtdtPmb0Pc",
+        "caption": "Your FIRST Pen Spinning Trick (BEGINNER GUIDE)"
+      }
     },
     {
       "number": 2,
       "title": "Find the Balance Point",
-      "instruction": "Hold the pencil horizontally and slide your finger along it until it balances. Mark this spot mentally — this is where the pencil rotates most easily. For most pencils, it's roughly in the middle.",
+      "instruction": "Hold the pencil horizontally and slide your finger along it until it balances. Mark this spot mentally \u2014 this is where the pencil rotates most easily. For most pencils, it's roughly in the middle.",
       "tip": "The balance point is your pivot. All smooth spins rotate around this center of mass.",
       "media": null
     },
@@ -25,7 +29,7 @@
       "number": 3,
       "title": "Master the Starting Grip",
       "instruction": "Hold the pencil between your thumb, index finger, and middle finger. Your thumb should be on one side, index and middle fingers on the other. Position the pencil so the balance point sits between your thumb and middle finger.",
-      "tip": "Keep your grip relaxed — death-gripping the pencil makes spinning impossible. Think 'holding a feather' not 'crushing a walnut'.",
+      "tip": "Keep your grip relaxed \u2014 death-gripping the pencil makes spinning impossible. Think 'holding a feather' not 'crushing a walnut'.",
       "media": null
     },
     {
@@ -45,7 +49,7 @@
     {
       "number": 6,
       "title": "Let Physics Do the Work",
-      "instruction": "As you push, the pencil rotates around your thumb (which acts as the pivot point). Keep your thumb relatively stationary — it's an axis, not a launcher. The momentum from your index finger carries the pencil around.",
+      "instruction": "As you push, the pencil rotates around your thumb (which acts as the pivot point). Keep your thumb relatively stationary \u2014 it's an axis, not a launcher. The momentum from your index finger carries the pencil around.",
       "tip": "Watch the pencil's path. It should trace a clean circle around your thumb, not wobble or fly away.",
       "media": null
     },
@@ -53,7 +57,7 @@
       "number": 7,
       "title": "Catch with Your Index Finger",
       "instruction": "As the pencil completes its rotation, your index finger should naturally be in position to catch it. The pencil lands back between your thumb and index finger, roughly where it started.",
-      "tip": "Don't grab at the pencil — let it fall into your grip. Snatching causes fumbles.",
+      "tip": "Don't grab at the pencil \u2014 let it fall into your grip. Snatching causes fumbles.",
       "media": null
     },
     {
@@ -78,6 +82,13 @@
       "media": null
     }
   ],
-  "tags": ["pencil spinning", "finger dexterity", "skill", "hand coordination"],
-  "sources": ["https://www.youtube.com/results?search_query=pencil+spinning+tutorial"]
+  "tags": [
+    "pencil spinning",
+    "finger dexterity",
+    "skill",
+    "hand coordination"
+  ],
+  "sources": [
+    "https://www.youtube.com/results?search_query=pencil+spinning+tutorial"
+  ]
 }

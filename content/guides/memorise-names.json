@@ -3,7 +3,7 @@
   "title": "How to Remember Names Instantly",
   "category": "Social & Communication",
   "categorySlug": "social-communication",
-  "description": "Forgetting names isn't a memory problem — it's an attention problem. These techniques force your brain to encode names properly the first time.",
+  "description": "Forgetting names isn't a memory problem \u2014 it's an attention problem. These techniques force your brain to encode names properly the first time.",
   "timeToNotice": "45 seconds",
   "timeToAchieve": "1 day",
   "steps": [
@@ -12,33 +12,37 @@
       "title": "Actually listen when someone says their name",
       "instruction": "Most people forget names because they were thinking about their own introduction while the other person was speaking. For 3 seconds, give the name your full attention. Hear it. Let it land.",
       "tip": "The act of deciding to remember is itself a memory technique.",
-      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/wuoK3OFc83o", "caption": "How to remember names every time" }
+      "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/Kyo4RPnTxVw",
+        "caption": "How to Remember People's Names: Memorize Names INSTANTLY"
+      }
     },
     {
       "number": 2,
       "title": "Repeat their name immediately",
       "instruction": "Say their name back right away: 'Nice to meet you, Sarah.' This serves two purposes: it confirms you heard correctly, and it creates the first repetition needed for memory encoding.",
-      "tip": "It doesn't feel awkward — it feels attentive. People like hearing their name.",
+      "tip": "It doesn't feel awkward \u2014 it feels attentive. People like hearing their name.",
       "media": null
     },
     {
       "number": 3,
       "title": "Ask about the name if it's unusual",
       "instruction": "Unusual names are actually easier to remember because you engage with them: 'Is that spelled the traditional way?' or 'Where does that name come from?' The conversation creates a richer memory trace.",
-      "tip": "People love being asked about their names — it signals genuine interest.",
+      "tip": "People love being asked about their names \u2014 it signals genuine interest.",
       "media": null
     },
     {
       "number": 4,
       "title": "Make a visual association",
-      "instruction": "Link their name to a vivid image. Michael → Michael Jordan dunking. Helen → Helen of Troy. Sandy → sandy beach. The stranger or more ridiculous the image, the better it sticks.",
+      "instruction": "Link their name to a vivid image. Michael \u2192 Michael Jordan dunking. Helen \u2192 Helen of Troy. Sandy \u2192 sandy beach. The stranger or more ridiculous the image, the better it sticks.",
       "tip": "Emotion and absurdity supercharge memory. The weirder, the better.",
       "media": null
     },
     {
       "number": 5,
       "title": "Attach the image to their face",
-      "instruction": "Notice a distinctive feature — hair colour, nose shape, expressive eyes, a dimple. Now mentally 'paste' your name-image onto that feature. Imagine Michael Jordan dunking out of their forehead.",
+      "instruction": "Notice a distinctive feature \u2014 hair colour, nose shape, expressive eyes, a dimple. Now mentally 'paste' your name-image onto that feature. Imagine Michael Jordan dunking out of their forehead.",
       "tip": "The more absurd the scene, the more memorable.",
       "media": null
     },
@@ -46,13 +50,13 @@
       "number": 6,
       "title": "Use their name during the conversation",
       "instruction": "Use their name 2-3 times naturally during your conversation: 'So John, how long have you worked here?' or 'That's a great point, Maria.' Each use is another memory repetition.",
-      "tip": "Don't overdo it — more than 3-4 times in one conversation sounds unnatural.",
+      "tip": "Don't overdo it \u2014 more than 3-4 times in one conversation sounds unnatural.",
       "media": null
     },
     {
       "number": 7,
       "title": "Use their name when saying goodbye",
-      "instruction": "End with their name: 'Great to meet you, Tom.' This is your third or fourth repetition and it comes at a point of heightened attention (endings are remembered well — the 'recency effect').",
+      "instruction": "End with their name: 'Great to meet you, Tom.' This is your third or fourth repetition and it comes at a point of heightened attention (endings are remembered well \u2014 the 'recency effect').",
       "tip": "First and last impressions are stickier. Use both.",
       "media": null
     },
@@ -66,18 +70,27 @@
     {
       "number": 9,
       "title": "Connect new names to people you already know",
-      "instruction": "If the name matches someone you know — a friend, celebrity, or family member — make the connection explicit. 'David — like David Bowie.' Your existing memory network becomes a hook for the new name.",
+      "instruction": "If the name matches someone you know \u2014 a friend, celebrity, or family member \u2014 make the connection explicit. 'David \u2014 like David Bowie.' Your existing memory network becomes a hook for the new name.",
       "tip": "This is why common names (James, Sarah, Mike) can actually be easier to remember.",
       "media": null
     },
     {
       "number": 10,
-      "title": "Don't fear asking again — but do it gracefully",
-      "instruction": "If you forget: 'I'm sorry, I'm terrible with names on first meeting — could you remind me?' People almost always respond warmly. The embarrassment of admitting it is far less than the long-term awkwardness of never using their name.",
+      "title": "Don't fear asking again \u2014 but do it gracefully",
+      "instruction": "If you forget: 'I'm sorry, I'm terrible with names on first meeting \u2014 could you remind me?' People almost always respond warmly. The embarrassment of admitting it is far less than the long-term awkwardness of never using their name.",
       "tip": "Everyone forgets names. Asking shows respect, not weakness.",
       "media": null
     }
   ],
-  "tags": ["memory", "social skills", "networking", "communication", "psychology"],
-  "sources": ["https://www.apa.org/topics/memory", "https://www.sciencedirect.com/topics/neuroscience/memory-consolidation"]
+  "tags": [
+    "memory",
+    "social skills",
+    "networking",
+    "communication",
+    "psychology"
+  ],
+  "sources": [
+    "https://www.apa.org/topics/memory",
+    "https://www.sciencedirect.com/topics/neuroscience/memory-consolidation"
+  ]
 }

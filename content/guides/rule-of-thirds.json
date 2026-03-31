@@ -11,8 +11,12 @@
       "number": 1,
       "title": "Enable the grid on your phone camera",
       "instruction": "Go to your camera settings and turn on the grid overlay. This divides your frame into 9 equal rectangles with 2 horizontal and 2 vertical lines. This grid is the visual tool for the rule of thirds.",
-      "tip": "iPhone: Settings → Camera → Grid. Android: Camera settings → Grid lines.",
-      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/4pHmq8HKQJY", "caption": "Rule of thirds photography explained" }
+      "tip": "iPhone: Settings \u2192 Camera \u2192 Grid. Android: Camera settings \u2192 Grid lines.",
+      "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/IpEuYp4_iSg",
+        "caption": "Start Taking BETTER PHOTOS TODAY! The Rule of Thirds"
+      }
     },
     {
       "number": 2,
@@ -24,15 +28,15 @@
     {
       "number": 3,
       "title": "Place your main subject on a power point",
-      "instruction": "When shooting a person, building, animal, or object — move it off center onto one of the four intersections. You'll immediately notice how much more dynamic the composition feels compared to the centered version.",
+      "instruction": "When shooting a person, building, animal, or object \u2014 move it off center onto one of the four intersections. You'll immediately notice how much more dynamic the composition feels compared to the centered version.",
       "tip": "Take two shots of the same subject: one centered, one on a power point. Compare them.",
       "media": null
     },
     {
       "number": 4,
       "title": "Put the horizon on the upper or lower third",
-      "instruction": "Never cut your landscape photo in half with a centered horizon. If the sky is interesting (dramatic clouds, sunset), put the horizon on the lower third — give sky two-thirds of the frame. If the foreground is the story, put the horizon on the upper third.",
-      "tip": "The question to ask: 'What's more interesting — the sky or the ground?' Give that element more space.",
+      "instruction": "Never cut your landscape photo in half with a centered horizon. If the sky is interesting (dramatic clouds, sunset), put the horizon on the lower third \u2014 give sky two-thirds of the frame. If the foreground is the story, put the horizon on the upper third.",
+      "tip": "The question to ask: 'What's more interesting \u2014 the sky or the ground?' Give that element more space.",
       "media": null
     },
     {
@@ -45,15 +49,15 @@
     {
       "number": 6,
       "title": "Use leading lines to guide the eye",
-      "instruction": "Roads, fences, rivers, stairways — these natural lines draw the viewer's eye through the frame. Position these lines along your grid lines or toward your power points. They create depth and direct attention to your subject.",
+      "instruction": "Roads, fences, rivers, stairways \u2014 these natural lines draw the viewer's eye through the frame. Position these lines along your grid lines or toward your power points. They create depth and direct attention to your subject.",
       "tip": "Diagonal lines feel dynamic. Horizontal lines feel calm. Choose based on mood.",
       "media": null
     },
     {
       "number": 7,
       "title": "Frame the subject with the environment",
-      "instruction": "Use natural frames — doorways, archways, windows, branches — to frame your subject. Position the frame around the edges of your shot and the subject in the opening. This creates depth and draws the eye inward.",
-      "tip": "The frame doesn't need to be sharp — it can be blurred and still work.",
+      "instruction": "Use natural frames \u2014 doorways, archways, windows, branches \u2014 to frame your subject. Position the frame around the edges of your shot and the subject in the opening. This creates depth and draws the eye inward.",
+      "tip": "The frame doesn't need to be sharp \u2014 it can be blurred and still work.",
       "media": null
     },
     {
@@ -65,8 +69,8 @@
     },
     {
       "number": 9,
-      "title": "Break the rule intentionally — for symmetry",
-      "instruction": "Centered composition works brilliantly for symmetrical subjects — reflections, tunnels, architecture with perfect symmetry. Rules exist to be broken with intention. Center when the symmetry IS the point.",
+      "title": "Break the rule intentionally \u2014 for symmetry",
+      "instruction": "Centered composition works brilliantly for symmetrical subjects \u2014 reflections, tunnels, architecture with perfect symmetry. Rules exist to be broken with intention. Center when the symmetry IS the point.",
       "tip": "Wes Anderson has built a career on centered composition. Know the rule, then break it on purpose.",
       "media": null
     },
@@ -78,6 +82,15 @@
       "media": null
     }
   ],
-  "tags": ["photography", "composition", "creative", "phone camera", "visual arts"],
-  "sources": ["https://www.photographytalk.com/photography-articles/7647-rule-of-thirds-in-photography", "https://www.adobe.com/creativecloud/photography/discover/rule-of-thirds.html"]
+  "tags": [
+    "photography",
+    "composition",
+    "creative",
+    "phone camera",
+    "visual arts"
+  ],
+  "sources": [
+    "https://www.photographytalk.com/photography-articles/7647-rule-of-thirds-in-photography",
+    "https://www.adobe.com/creativecloud/photography/discover/rule-of-thirds.html"
+  ]
 }

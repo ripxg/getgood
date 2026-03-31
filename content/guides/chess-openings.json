@@ -12,12 +12,16 @@
       "title": "Control the center with pawns first",
       "instruction": "Open with 1.e4 or 1.d4. These moves stake a claim in the four central squares (e4, e5, d4, d5). A piece in the center controls more squares than a piece on the edge.",
       "tip": "e4 leads to sharper, more tactical games. d4 tends to be more strategic.",
-      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/f8BqnrC5o5k", "caption": "Chess opening principles explained" }
+      "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/8IlJ3v8I4Z8",
+        "caption": "Basic Chess Openings Explained"
+      }
     },
     {
       "number": 2,
       "title": "Develop your knights before bishops",
-      "instruction": "Knights must jump to reach the center; bishops slide diagonally so they can develop later. A knight on f3 or c3 is almost always good — you don't need to decide its final square yet.",
+      "instruction": "Knights must jump to reach the center; bishops slide diagonally so they can develop later. A knight on f3 or c3 is almost always good \u2014 you don't need to decide its final square yet.",
       "tip": "Don't move the same piece twice in the opening unless you must.",
       "media": null
     },
@@ -30,7 +34,7 @@
     },
     {
       "number": 4,
-      "title": "Castle early — king safety is paramount",
+      "title": "Castle early \u2014 king safety is paramount",
       "instruction": "Castle before move 10 if possible. An uncastled king in the center is a target. Once you castle, you also connect your rooks, which is a bonus.",
       "tip": "If both your knights and bishops are developed, you can usually castle.",
       "media": null
@@ -46,7 +50,7 @@
       "number": 6,
       "title": "Connect your rooks after castling",
       "instruction": "After castling, your goal is to get your rooks on open or semi-open files. To connect them, clear all pieces off the back rank between them. Connected rooks double each other's power.",
-      "tip": "Rooks belong on open files — files with no pawns blocking them.",
+      "tip": "Rooks belong on open files \u2014 files with no pawns blocking them.",
       "media": null
     },
     {
@@ -72,12 +76,21 @@
     },
     {
       "number": 10,
-      "title": "Review your games — openings are memorized by losing",
+      "title": "Review your games \u2014 openings are memorized by losing",
       "instruction": "After each game, look at where you deviated from sound opening principles. Use a free engine (Lichess analysis) to see where the position went wrong. You'll internalize the right moves faster from your own mistakes than from memorizing theory.",
       "tip": "Lichess.org is free, has built-in analysis, and is the best tool for this.",
       "media": null
     }
   ],
-  "tags": ["chess", "strategy", "board games", "openings", "beginner"],
-  "sources": ["https://www.lichess.org/learn", "https://www.chess.com/learn-how-to-play-chess"]
+  "tags": [
+    "chess",
+    "strategy",
+    "board games",
+    "openings",
+    "beginner"
+  ],
+  "sources": [
+    "https://www.lichess.org/learn",
+    "https://www.chess.com/learn-how-to-play-chess"
+  ]
 }

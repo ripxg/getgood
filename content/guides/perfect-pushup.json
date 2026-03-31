@@ -3,21 +3,25 @@
   "title": "How to Do a Perfect Push-Up",
   "category": "Sports & Fitness",
   "categorySlug": "sports-fitness",
-  "description": "Master the push-up with perfect form — no injury, maximum results. Most people do them wrong. Here's how to fix that in minutes.",
+  "description": "Master the push-up with perfect form \u2014 no injury, maximum results. Most people do them wrong. Here's how to fix that in minutes.",
   "timeToNotice": "45 seconds",
   "timeToAchieve": "1 day",
   "steps": [
     {
       "number": 1,
       "title": "Plant your hands shoulder-width apart",
-      "instruction": "Place your hands directly below your shoulders, fingers pointing forward. Avoid going wider — that shifts stress to your shoulders. Think of your hands as the base of a triangle with your chest at the top.",
+      "instruction": "Place your hands directly below your shoulders, fingers pointing forward. Avoid going wider \u2014 that shifts stress to your shoulders. Think of your hands as the base of a triangle with your chest at the top.",
       "tip": "Press your fingertips into the floor for extra grip and stability.",
-      "media": { "type": "youtube", "url": "https://www.youtube.com/embed/IODxDxX7oi4", "caption": "Perfect push-up form breakdown" }
+      "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/IODxDxX7oi4",
+        "caption": "The Perfect Push Up | Do it right! \u2014 AthleanX"
+      }
     },
     {
       "number": 2,
       "title": "Create a straight line from head to heels",
-      "instruction": "Your body should form one rigid plank. Hips not sagging, not piking upward. Imagine a broomstick resting along your spine — it should touch your head, upper back, and tailbone simultaneously.",
+      "instruction": "Your body should form one rigid plank. Hips not sagging, not piking upward. Imagine a broomstick resting along your spine \u2014 it should touch your head, upper back, and tailbone simultaneously.",
       "tip": "Squeeze your glutes hard to prevent hip sag.",
       "media": null
     },
@@ -31,14 +35,14 @@
     {
       "number": 4,
       "title": "Tuck your elbows at 45 degrees",
-      "instruction": "As you lower, your elbows should flare out at roughly 45 degrees from your torso — not straight out to the sides (90°), not pinned to your ribs. This is the joint-safe angle.",
+      "instruction": "As you lower, your elbows should flare out at roughly 45 degrees from your torso \u2014 not straight out to the sides (90\u00b0), not pinned to your ribs. This is the joint-safe angle.",
       "tip": "Think 'arrows', not 'wings'.",
       "media": null
     },
     {
       "number": 5,
-      "title": "Lower with control — 2 seconds down",
-      "instruction": "Descend slowly, taking about 2 seconds to reach the bottom. Your chest should almost touch the floor — aim for a fist's distance if you're new. Controlled lowering builds more strength than dropping fast.",
+      "title": "Lower with control \u2014 2 seconds down",
+      "instruction": "Descend slowly, taking about 2 seconds to reach the bottom. Your chest should almost touch the floor \u2014 aim for a fist's distance if you're new. Controlled lowering builds more strength than dropping fast.",
       "tip": "The eccentric (lowering) phase is where most strength gains happen.",
       "media": null
     },
@@ -51,14 +55,14 @@
     },
     {
       "number": 7,
-      "title": "Push the floor away — don't just push yourself up",
+      "title": "Push the floor away \u2014 don't just push yourself up",
       "instruction": "Reframe the movement: you're driving the floor down and away from you. This mental cue activates your chest and serratus anterior more effectively and makes the push feel more powerful.",
       "tip": "Spread the floor apart with your hands as you push up.",
       "media": null
     },
     {
       "number": 8,
-      "title": "Lock out at the top — protract your shoulders",
+      "title": "Lock out at the top \u2014 protract your shoulders",
       "instruction": "At the top of the rep, fully extend your elbows and then round your shoulder blades forward slightly (protraction). This finishes the chest's range of motion and hits the serratus anterior.",
       "tip": "This extra inch of movement at the top is often skipped. Don't skip it.",
       "media": null
@@ -66,7 +70,7 @@
     {
       "number": 9,
       "title": "Keep your neck neutral",
-      "instruction": "Don't crane your neck up to look forward — your gaze should be about 6 inches in front of your hands, keeping the spine in line. Neck craning causes tension headaches and upper traps tightness.",
+      "instruction": "Don't crane your neck up to look forward \u2014 your gaze should be about 6 inches in front of your hands, keeping the spine in line. Neck craning causes tension headaches and upper traps tightness.",
       "tip": "A neutral neck is a comfortable neck.",
       "media": null
     },
@@ -78,6 +82,15 @@
       "media": null
     }
   ],
-  "tags": ["fitness", "bodyweight", "strength", "upper body", "chest"],
-  "sources": ["https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/push-ups/vid-20084762", "https://www.acefitness.org/"]
+  "tags": [
+    "fitness",
+    "bodyweight",
+    "strength",
+    "upper body",
+    "chest"
+  ],
+  "sources": [
+    "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/push-ups/vid-20084762",
+    "https://www.acefitness.org/"
+  ]
 }
