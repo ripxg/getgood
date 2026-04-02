@@ -1,0 +1,96 @@
+{
+  "slug": "juggling",
+  "title": "How to Juggle Three Balls",
+  "category": "Sports & Movement",
+  "categorySlug": "sports-movement",
+  "description": "The classic three-ball cascade is the foundation of all juggling. It looks impossible until you break it into a simple two-throw pattern — then it clicks fast.",
+  "timeToNotice": "45 seconds",
+  "timeToAchieve": "3 days",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Start with one ball — master the arc, not the catch",
+      "instruction": "Hold one ball in your dominant hand. Toss it in a smooth arc to your other hand, peaking at eye level. The throw should cross your body in an inverted V shape — never straight across. Focus on a consistent peak height, not on catching. Let it drop if you need to.",
+      "tip": "The throw is everything. If your throws are consistent, catching takes care of itself.",
+      "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/dCGS067s0zo",
+        "caption": "Learn to Juggle 3 Balls - Beginner Tutorial"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Throw from both hands — same height, same arc",
+      "instruction": "Toss the ball from your left hand to your right with the same arc. Alternate: right-to-left, left-to-right. Each throw should peak at the same height. Spend 5 minutes making this feel automatic from both sides.",
+      "tip": "Your non-dominant hand will feel terrible at first. That's normal — it catches up faster than you'd expect.",
+      "media": null
+    },
+    {
+      "number": 3,
+      "title": "Two balls — the exchange",
+      "instruction": "Hold one ball in each hand. Toss the right-hand ball in the arc. When it peaks, throw the left-hand ball underneath it in the opposite arc. Catch the first ball with your left hand, second ball with your right. Stop. That's the core pattern.",
+      "tip": "The second throw happens when the first ball peaks — not when you catch it. Timing it to the peak is the key insight.",
+      "media": null
+    },
+    {
+      "number": 4,
+      "title": "Break the 'hand-off' instinct",
+      "instruction": "Your brain will desperately want to pass one ball directly across instead of throwing it in an arc. Every time you catch yourself doing a flat hand-off, stop and restart. Both balls must always travel in arcs — no exceptions.",
+      "tip": "If you keep handing off, practice throwing the second ball first, then catching the first. Reverse the mental priority.",
+      "media": null
+    },
+    {
+      "number": 5,
+      "title": "Two balls starting from the left hand",
+      "instruction": "Repeat step 3 but initiate with your left hand. Toss left first, then right when it peaks. You need to be equally comfortable starting from either side — the cascade alternates constantly.",
+      "tip": "Do 10 clean exchanges from the right, then 10 from the left, before moving on.",
+      "media": null
+    },
+    {
+      "number": 6,
+      "title": "Three balls — just add one more throw",
+      "instruction": "Hold two balls in your dominant hand (one cradled in your fingers, one in your palm) and one in the other. Start by throwing from the hand with two balls. When it peaks, throw the single ball. When that peaks, throw the third ball. Then stop and catch everything. You just did three throws — that's juggling.",
+      "tip": "Don't try to keep going. Three throws and a clean stop is the goal for now.",
+      "media": null
+    },
+    {
+      "number": 7,
+      "title": "Stand in front of a bed or wall",
+      "instruction": "The biggest time-waster is chasing dropped balls. Stand facing a bed so drops land on the mattress. Or stand close to a wall — it prevents the natural tendency to throw forward and forces you to keep the pattern in a flat plane.",
+      "tip": "Forward drift is the #1 beginner problem. A wall 30cm from your face fixes it in minutes.",
+      "media": null
+    },
+    {
+      "number": 8,
+      "title": "Count your throws, not your catches",
+      "instruction": "After you can do three throws reliably, try for four, then five, then six. Count out loud. Every two additional throws adds one full cycle. Getting to six throws (three full cycles) consistently is the breakthrough moment — after that, more cycles come easily.",
+      "tip": "Celebrate small wins: 4 throws today, 6 tomorrow. Don't aim for 'infinite' yet.",
+      "media": null
+    },
+    {
+      "number": 9,
+      "title": "Relax your grip and lower your hands",
+      "instruction": "Beginners tense up, death-grip the balls, and raise their hands to shoulder height. Consciously drop your elbows to your sides, relax your fingers, and keep your hands at waist level. The throws come from your forearms, not your shoulders.",
+      "tip": "If your shoulders hurt after practice, your hands are too high. Reset.",
+      "media": null
+    },
+    {
+      "number": 10,
+      "title": "Practice in 10-minute bursts, not marathon sessions",
+      "instruction": "Juggling is a motor pattern — your brain consolidates it during rest, not during practice. Three 10-minute sessions across a day will progress faster than one 60-minute grind. Sleep on it and you'll be noticeably better the next morning.",
+      "tip": "Most people can sustain a basic three-ball cascade within 2-3 days of 10-minute practice sessions. Don't rush it.",
+      "media": null
+    }
+  ],
+  "tags": [
+    "juggling",
+    "coordination",
+    "motor skills",
+    "circus skills",
+    "hand-eye coordination"
+  ],
+  "sources": [
+    "https://www.instructables.com/How-to-Juggle-Three-Balls/",
+    "https://www.wikihow.com/Juggle"
+  ]
+}
