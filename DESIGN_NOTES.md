@@ -1,6 +1,6 @@
 # GetGood Redesign — Design Notes
 
-**Live URL:** https://getgood-build.vercel.app
+**Live URL:** https://getgood.page
 
 ---
 

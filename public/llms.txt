@@ -6,25 +6,25 @@ GetGood provides concise, actionable how-to guides built around a single princip
 
 ## Guides
 
-- [How to Do a Perfect Push-Up](https://getgood.vercel.app/guide/perfect-pushup): Master push-up form with proper hand placement, body alignment, and breathing technique. No injury, maximum results.
+- [How to Do a Perfect Push-Up](https://getgood.page/guide/perfect-pushup): Master push-up form with proper hand placement, body alignment, and breathing technique. No injury, maximum results.
 
-- [How to Chop an Onion Fast (Without Crying)](https://getgood.vercel.app/guide/chop-onion): The chef's dice technique — horizontal cuts, vertical cuts, cross-cuts. Sharp knife, root anchor, no tears.
+- [How to Chop an Onion Fast (Without Crying)](https://getgood.page/guide/chop-onion): The chef's dice technique — horizontal cuts, vertical cuts, cross-cuts. Sharp knife, root anchor, no tears.
 
-- [How to Hit a Consistent Tennis Serve](https://getgood.vercel.app/guide/tennis-serve): Continental grip, trophy position, leg drive, pronation at contact. Consistency before power.
+- [How to Hit a Consistent Tennis Serve](https://getgood.page/guide/tennis-serve): Continental grip, trophy position, leg drive, pronation at contact. Consistency before power.
 
-- [How to Play Chess Openings Correctly](https://getgood.vercel.app/guide/chess-openings): Control the center, develop knights before bishops, castle early, never bring the queen out too soon.
+- [How to Play Chess Openings Correctly](https://getgood.page/guide/chess-openings): Control the center, develop knights before bishops, castle early, never bring the queen out too soon.
 
-- [How to Start Touch Typing](https://getgood.vercel.app/guide/touch-typing): Home row anchor, finger assignment, no peeking, accuracy over speed. From hunt-and-peck to 60+ WPM.
+- [How to Start Touch Typing](https://getgood.page/guide/touch-typing): Home row anchor, finger assignment, no peeking, accuracy over speed. From hunt-and-peck to 60+ WPM.
 
-- [How to Remember Names Instantly](https://getgood.vercel.app/guide/memorise-names): Attention, repetition, visual association, face anchoring. Forgetting names is an attention problem, not a memory problem.
+- [How to Remember Names Instantly](https://getgood.page/guide/memorise-names): Attention, repetition, visual association, face anchoring. Forgetting names is an attention problem, not a memory problem.
 
-- [How to Run With Better Form](https://getgood.vercel.app/guide/running-form): Run tall, land under hips, 170-180 cadence, wrist arms, relax hands and face. Reduce injury, run further.
+- [How to Run With Better Form](https://getgood.page/guide/running-form): Run tall, land under hips, 170-180 cadence, wrist arms, relax hands and face. Reduce injury, run further.
 
-- [How to Make a Perfect Poached Egg](https://getgood.vercel.app/guide/poached-egg): Fresh eggs, gentle simmer, white vinegar, ramekin entry, 3-minute timer. Restaurant quality at home.
+- [How to Make a Perfect Poached Egg](https://getgood.page/guide/poached-egg): Fresh eggs, gentle simmer, white vinegar, ramekin entry, 3-minute timer. Restaurant quality at home.
 
-- [How to Hold a Guitar Pick Correctly](https://getgood.vercel.app/guide/guitar-pick): Medium pick, side of index finger, thumb pad, 45-degree angle, wrist motion, alternate picking from day one.
+- [How to Hold a Guitar Pick Correctly](https://getgood.page/guide/guitar-pick): Medium pick, side of index finger, thumb pad, 45-degree angle, wrist motion, alternate picking from day one.
 
-- [How to Take Better Photos (Rule of Thirds)](https://getgood.vercel.app/guide/rule-of-thirds): Grid overlay, four power points, horizon placement, leading space, leading lines. Instant composition upgrade.
+- [How to Take Better Photos (Rule of Thirds)](https://getgood.page/guide/rule-of-thirds): Grid overlay, four power points, horizon placement, leading space, leading lines. Instant composition upgrade.
 
 ## Categories
 - Sports & Fitness: /category/sports-fitness

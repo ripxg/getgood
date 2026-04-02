@@ -12,11 +12,17 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://getgood.page'),
   title: 'GetGood — Learn Anything Fast',
   description: '10-step guides that show you results in under a minute and get you there in a day. Built for curious humans and AI agents.',
+  alternates: {
+    canonical: '/',
+  },
   openGraph: {
     title: 'GetGood — Learn Anything Fast',
     description: '10-step guides that show you results in under a minute and get you there in a day.',
+    url: 'https://getgood.page',
+    siteName: 'GetGood',
     type: 'website',
   },
 };

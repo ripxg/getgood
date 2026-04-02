@@ -54,7 +54,7 @@ export default async function CategoryPage({ params }: Props) {
       position: tip.number,
       name: tip.title,
       description: tip.insight,
-      url: `https://getgood-build.vercel.app/category/${slug}#tip-${tip.number}`,
+      url: `https://getgood.page/category/${slug}#tip-${tip.number}`,
     })),
   } : null;
 

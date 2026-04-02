@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 import { getAllGuides, getCategories } from '@/lib/guides';
 
-const BASE_URL = 'https://getgood.vercel.app';
+const BASE_URL = 'https://getgood.page';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const guides = getAllGuides();
