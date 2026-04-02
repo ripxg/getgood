@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import LanguageSelector from './LanguageSelector';
 import { useLanguage } from '@/contexts/LanguageContext';
@@ -31,9 +32,7 @@ export default function Nav() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-[#FAF8F5]/80 backdrop-blur-md border-b border-[#E5E2DD]">
       <div className="max-w-7xl mx-auto px-6 lg:px-8 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2 group">
-          <span className="text-xl font-bold tracking-tight">
-            Get<span className="text-[#0a0a0a] group-hover:text-[#CCFF00] transition-colors duration-200">Good</span>
-          </span>
+          <Image src="/logo.svg" alt="GetGood" width={140} height={24} priority />
         </Link>
 
         {/* Desktop Navigation */}
